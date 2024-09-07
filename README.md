@@ -23,8 +23,7 @@ Adaptive Token Reduction for Efficient Large Multimodal Models](https://arxiv.or
 ## Vit
 ### 2024
 -  <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2408.06798-red?logo=arxiv" height="14" />  [Token Compensator: Altering Inference Cost of Vision Transformer without Re-Tuning](https://arxiv.org/pdf/2408.06798) . [Token Compensator;ToCom;[Github](https://github.com/JieShibo/ToCom)]
--  <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2408.06840-red?logo=arxiv" height="14" />  [Dynamic and Compressive Adaptation of Transformers From Images to Videos](https://arxiv.org/pdf/2408.06840) . [InTI;]
--  
+-  <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2408.06840-red?logo=arxiv" height="14" />  [Dynamic and Compressive Adaptation of Transformers From Images to Videos](https://arxiv.org/pdf/2408.06840) . [InTI;] 
 ### 2023
 -  <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2305.17997-red?logo=arxiv" height="14" />  [PPT: Token Pruning and Pooling for Efficient Vision Transformers](https://arxiv.org/pdf/2310.01812) . [PPT;[Github](https://github.com/xjwu1024/PPT)] 
 -  <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2305.17997-red?logo=arxiv" height="14" />  [DiffRate : Differentiable Compression Rate for Efficient Vision Transformers](https://arxiv.org/abs/2305.17997) . [DiffRate;ICCV 2023;[Github](https://github.com/OpenGVLab/DiffRate)] 
