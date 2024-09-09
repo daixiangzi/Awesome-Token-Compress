@@ -34,6 +34,7 @@ Adaptive Token Reduction for Efficient Large Multimodal Models](https://arxiv.or
 ### 2021
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2112.07658-red?logo=arxiv" height="14" /> [A-ViT: Adaptive Tokens for Efficient Vision Transformer](https://arxiv.org/pdf/2112.07658) . [A-Vit;]
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2111.15667-red?logo=arxiv" height="14" /> [ATS: Adaptive Token Sampling For Efficient Vision Transformers](https://arxiv.org/abs/2111.15667) . [ATS;ECCV 2022;[Github](https://github.com/adaptivetokensampling/ATS)]
+- <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2108.01390-red?logo=arxiv" height="14" /> [Evo-ViT: Slow-Fast Token Evolution for Dynamic Vision Transformer](https://arxiv.org/abs/2108.01390) . [Evo-ViT;AAAI 2022;[Github](https://github.com/YifanXu74/Evo-ViT)]
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2106.02034-red?logo=arxiv" height="14" /> [DynamicViT: Efficient Vision Transformers with Dynamic Token Sparsificationr](https://arxiv.org/abs/2106.02034) . [DynamicViT;NeurIPS 2021;[Github](https://github.com/raoyongming/DynamicViT)]
   
 
