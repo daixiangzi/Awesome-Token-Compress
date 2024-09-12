@@ -1,5 +1,5 @@
 # Awesome-Token-Compress
-A paper list of some recent  works about Token Compress for Vit and VLM
+🔥🔥🔥 A paper list of some recent  works about Token Compress for Vit and VLM.
 ## VLM
 ### 2024
 -  <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2409.03420-red?logo=arxiv" height="14" />  [mPLUG-DocOwl2: High-resolution Compressing for OCR-free Multi-page Document Understanding](https://arxiv.org/abs/2409.03420) .    [mPLUG-DocOwl2;[Github](https://github.com/X-PLUG/mPLUG-DocOwl)]
