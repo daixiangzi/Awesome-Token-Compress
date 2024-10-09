@@ -2,6 +2,7 @@
 🔥🔥🔥 A paper list of some recent  works about Token Compress for Vit and VLM.
 ## VLM
 ### 2024
+-  <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2410.02745-red?logo=arxiv" height="14" />  [AVG-LLaVA: A Large Multimodal Model with Adaptive Visual Granularity](https://arxiv.org/pdf/2410.02745) .[AVG-LLaVA;[Github](https://github.com/DeepLearnXMU/AVG-LLaVA)]
 -  <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2409.10994-red?logo=arxiv" height="14" />  [Less is More: A Simple yet Effective Token Reduction Method for Efficient Multi-modal LLMs](https://arxiv.org/pdf/2409.10994) .[TRIM]
 -  <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2409.09564-red?logo=arxiv" height="14" />  [TG-LLaVA: Text Guided LLaVA via Learnable Latent Embeddings](https://arxiv.org/pdf/2409.09564) .[TG-LLaVA]
 -  <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2409.03420-red?logo=arxiv" height="14" />  [mPLUG-DocOwl2: High-resolution Compressing for OCR-free Multi-page Document Understanding](https://arxiv.org/abs/2409.03420) .    [mPLUG-DocOwl2;[Github](https://github.com/X-PLUG/mPLUG-DocOwl)]
