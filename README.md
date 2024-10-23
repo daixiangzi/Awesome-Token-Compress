@@ -2,6 +2,10 @@
 🔥🔥🔥 A paper list of some recent  works about Token Compress for Vit and VLM.
 ## VLM
 ### 2024
+-  <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2410.11417-red?logo=arxiv" height="14" />  [VidCompress: Memory-Enhanced Temporal Compression for Video Understanding in Large Language Models](https://arxiv.org/pdf/2410.11417) .[VidCompress;]
+
+-  <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2410.07278-red?logo=arxiv" height="14" />  [Retrieval Replace Reduction:An effective visual token reduction method via semantic match](https://arxiv.org/pdf/2410.07278) .[TRSM;]
+
 -  <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2410.02745-red?logo=arxiv" height="14" />  [AVG-LLaVA: A Large Multimodal Model with Adaptive Visual Granularity](https://arxiv.org/pdf/2410.02745) .[AVG-LLaVA;[Github](https://github.com/DeepLearnXMU/AVG-LLaVA)]
 -  <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2409.10994-red?logo=arxiv" height="14" />  [Less is More: A Simple yet Effective Token Reduction Method for Efficient Multi-modal LLMs](https://arxiv.org/pdf/2409.10994) .[TRIM]
 -  <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2409.09564-red?logo=arxiv" height="14" />  [TG-LLaVA: Text Guided LLaVA via Learnable Latent Embeddings](https://arxiv.org/pdf/2409.09564) .[TG-LLaVA]
