@@ -2,6 +2,9 @@
 🔥🔥🔥 A paper list of some recent  works about Token Compress for Vit and VLM.
 ## VLM
 ### 2024
+
+-  <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2410.17434-red?logo=arxiv" height="14" />  [LongVU: Spatiotemporal Adaptive Compression for Long Video-Language Understanding](https://arxiv.org/pdf/2410.17434) .[LongVU;Video;[Github](https://github.com/Vision-CAIR/LongVU)]
+
 -  <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2410.11417-red?logo=arxiv" height="14" />  [VidCompress: Memory-Enhanced Temporal Compression for Video Understanding in Large Language Models](https://arxiv.org/pdf/2410.11417) .[VidCompress;]
 
 -  <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2410.07278-red?logo=arxiv" height="14" />  [Retrieval Replace Reduction:An effective visual token reduction method via semantic match](https://arxiv.org/pdf/2410.07278) .[TRSM;]
