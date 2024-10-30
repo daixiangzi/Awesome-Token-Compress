@@ -6,6 +6,8 @@
 
 -  <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2410.17247-red?logo=arxiv" height="14" />  [PyramidDrop: Accelerating Your Large Vision-Language Models via Pyramid Visual Redundancy Reduction](https://arxiv.org/pdf/2410.17247) .[PyramidDrop;[Github](https://github.com/Cooperx521/PyramidDrop)]
 
+-  <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2410.14072-red?logo=arxiv" height="14" />  [Efficient Vision-Language Models by Summarizing Visual Tokens into Compact Registers](https://arxiv.org/pdf/2410.14072) .[Victor;]
+
 -  <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2410.11417-red?logo=arxiv" height="14" />  [VidCompress: Memory-Enhanced Temporal Compression for Video Understanding in Large Language Models](https://arxiv.org/pdf/2410.11417) .[VidCompress;]
 
 -  <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2410.07278-red?logo=arxiv" height="14" />  [Retrieval Replace Reduction:An effective visual token reduction method via semantic match](https://arxiv.org/pdf/2410.07278) .[TRSM;]
