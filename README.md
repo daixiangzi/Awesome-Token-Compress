@@ -2,6 +2,8 @@
 🔥🔥🔥 A paper list of some recent  works about Token Compress for Vit and VLM.
 ## VLM
 ### 2024
+-  <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2411.15024-red?logo=arxiv" height="14" />  [DyCoke:Dynamic Compression of Tokens for Fast Video Large Language Models](https://arxiv.org/pdf/2411.15024) .[DyCoke;Video;[Github](https://github.com/KD-TAO/DyCoke)]
+-  <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2411.14228-red?logo=arxiv" height="14" />  [FocusLLaVA: A Coarse-to-Fine Approach for Efficient and Effective Visual Token Compression](https://arxiv.org/pdf/2411.14228) .[FocusLLaVA;]
 -  <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2411.10803-red?logo=arxiv" height="14" />  [MustDrop:Multi-Stage Vision Token Dropping: Towards Efficient Multimodal Large Language Model](https://arxiv.org/pdf/2411.10803) .[MustDrop;[Github](https://github.com/liuting20/MustDrop)]
 -  <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2411.05222-red?logo=arxiv" height="14" />  [Don’t Look Twice: Faster Video Transformers with Run-Length Tokenization](https://arxiv.org/pdf/2411.05222) .[RLT;Video;NeurIPS 2024;[Github](https://rccchoudhury.github.io/projects/rlt/)]
 -  <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2411.03312-red?logo=arxiv" height="14" />  [Inference Optimal VLMs Need Only One Visual Token but Larger Models](https://arxiv.org/pdf/2411.03312) .[QueCC;[Github](https://github.com/locuslab/llava-token-compression)]
