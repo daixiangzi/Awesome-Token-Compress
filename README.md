@@ -2,6 +2,7 @@
 🔥🔥🔥 A paper list of some recent  works about Token Compress for Vit and VLM.
 ## VLM
 ### 2024
+-  <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2405.19315-red?logo=arxiv" height="14" />  [Matryoshka Query Transformer for Large Vision-Language Models](https://arxiv.org/pdf/2405.19315) .    [MQT-LLaVA][Github](https://github.com/gordonhu608/MQT-LLaVA)]
 - OpenReview [LVP: Language-guide Visual Projector for Efficient Multimodal LLM](https://openreview.net/pdf?id=PxBzxO02Ef).[LVP]
 - OpenReview [Efficient Multi-modal Large Language Models via Visual Token Grouping](https://openreview.net/pdf?id=ym1dS37mZE) .[VisToG]
 -  <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2411.15024-red?logo=arxiv" height="14" />  [DyCoke:Dynamic Compression of Tokens for Fast Video Large Language Models](https://arxiv.org/pdf/2411.15024) .[DyCoke;Video;[Github](https://github.com/KD-TAO/DyCoke)]
