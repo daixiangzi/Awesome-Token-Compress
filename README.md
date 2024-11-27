@@ -3,6 +3,7 @@
 ## VLM
 ### 2024
 
+- <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2411.17686-red?logo=arxiv" height="14" />  [Rethinking Token Reduction in MLLMs: Towards a Unified Paradigm for Training-Free Acceleration](https://arxiv.org/pdf/2411.17686) .[FiCoCo;]
 - OpenReview [LVP: Language-guide Visual Projector for Efficient Multimodal LLM](https://openreview.net/pdf?id=PxBzxO02Ef).[LVP]
 - OpenReview [Efficient Multi-modal Large Language Models via Visual Token Grouping](https://openreview.net/pdf?id=ym1dS37mZE) .[VisToG]
 -  <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2411.15024-red?logo=arxiv" height="14" />  [DyCoke:Dynamic Compression of Tokens for Fast Video Large Language Models](https://arxiv.org/pdf/2411.15024) .[DyCoke;Video;[Github](https://github.com/KD-TAO/DyCoke)]
