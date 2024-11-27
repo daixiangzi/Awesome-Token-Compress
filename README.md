@@ -2,7 +2,7 @@
 🔥🔥🔥 A paper list of some recent  works about Token Compress for Vit and VLM.
 ## VLM
 ### 2024
--  <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2405.19315-red?logo=arxiv" height="14" />  [Matryoshka Query Transformer for Large Vision-Language Models](https://arxiv.org/pdf/2405.19315) .    [MQT-LLaVA; NeurIPS 2024][Github](https://github.com/gordonhu608/MQT-LLaVA)]
+
 - OpenReview [LVP: Language-guide Visual Projector for Efficient Multimodal LLM](https://openreview.net/pdf?id=PxBzxO02Ef).[LVP]
 - OpenReview [Efficient Multi-modal Large Language Models via Visual Token Grouping](https://openreview.net/pdf?id=ym1dS37mZE) .[VisToG]
 -  <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2411.15024-red?logo=arxiv" height="14" />  [DyCoke:Dynamic Compression of Tokens for Fast Video Large Language Models](https://arxiv.org/pdf/2411.15024) .[DyCoke;Video;[Github](https://github.com/KD-TAO/DyCoke)]
@@ -33,6 +33,7 @@
 -  <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2407.02392-red?logo=arxiv" height="14" />  [TokenPacker: Efficient Visual Projector for Multimodal LLM](https://arxiv.org/abs/2407.02392.pdf) .    [TokenPacker;[Github](https://github.com/CircleRadon/TokenPacker)]
 -  <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2406.12275-red?logo=arxiv" height="14" />  [VoCo-LLaMA: Towards Vision Compression with Large Language Models](https://arxiv.org/pdf/2406.12275) .    [VoCo-LLaMA;[Github](https://github.com/Yxxxb/VoCo-LLaMA)]
 -  <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2405.20985-red?logo=arxiv" height="14" />  [DeCo: Decoupling Token Compression from Semantic Abstraction in Multimodal Large Language Models](https://arxiv.org/pdf/2405.20985) .    [DeCo;[Github](https://github.com/yaolinli/DeCo)]
+- <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2405.19315-red?logo=arxiv" height="14" />  [Matryoshka Query Transformer for Large Vision-Language Models](https://arxiv.org/pdf/2405.19315) .    [MQT-LLaVA; NeurIPS 2024][Github](https://github.com/gordonhu608/MQT-LLaVA)]
 -  <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2405.17430-red?logo=arxiv" height="14" />  [Matryoshka Multimodal Models](https://arxiv.org/pdf/2405.17430) .    [Matryoshka;M<sup>3</sup>][Github](https://github.com/mu-cai/matryoshka-mm)]
 -  <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2404.16821-red?logo=arxiv" height="14" />  [How Far Are We to GPT-4V? Closing the Gap to Commercial Multimodal Models with Open-Source Suites](https://arxiv.org/abs/2404.16821.pdf) .    [InternVL;Pixel-Shuffle;[Github](https://github.com/OpenGVLab/InternVL)]
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2404.08567-red?logo=arxiv" height="14" />  [CATP: Cross-Attention Token Pruning for Accuracy Preserved Multimodal Model Inference](https://arxiv.org/pdf/2404.08567) .    [CATP;]
