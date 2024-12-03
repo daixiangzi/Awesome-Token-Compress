@@ -52,6 +52,7 @@ Adaptive Token Reduction for Efficient Large Multimodal Models](https://arxiv.or
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2301.12597-red?logo=arxiv" height="14" /> [BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models](https://arxiv.org/abs/2301.12597) . [Q-former;[Github](https://github.com/salesforce/LAVIS/tree/main/projects/blip2)]
 ## Vit
 ### 2024
+-  <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2412.00965-red?logo=arxiv" height="14" />  [Token Cropr: Faster ViTs for Quite a Few Tasks](https://arxiv.org/pdf/2412.00965).[Token Cropr;]
 -  <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2408.17062-red?logo=arxiv" height="14" />  [Vote&Mix: Plug-and-Play Token Reduction for Efficient Vision Transformer](https://arxiv.org/pdf/2408.17062) . [Vote&Mix;]
 -  <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2408.06798-red?logo=arxiv" height="14" />  [Token Compensator: Altering Inference Cost of Vision Transformer without Re-Tuning](https://arxiv.org/pdf/2408.06798) . [Token Compensator;ToCom;[Github](https://github.com/JieShibo/ToCom)]
 -  <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2408.06840-red?logo=arxiv" height="14" />  [Dynamic and Compressive Adaptation of Transformers From Images to Videos](https://arxiv.org/pdf/2408.06840) . [InTI;]
