@@ -2,7 +2,7 @@
 🔥🔥🔥 A paper list of some recent  works about Token Compress for Vit and VLM.
 ## VLM
 ### 2024
-
+- OpenReview [LLaVA-Mini: Efficient Image and Video Large Multimodal Models with One Vision Token](https://openreview.net/pdf?id=UQJ7CDW8nb). [LLaVA-Mini] 
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2411.17686-red?logo=arxiv" height="14" />  [Rethinking Token Reduction in MLLMs: Towards a Unified Paradigm for Training-Free Acceleration](https://arxiv.org/pdf/2411.17686) .[FiCoCo;]
 - OpenReview [LVP: Language-guide Visual Projector for Efficient Multimodal LLM](https://openreview.net/pdf?id=PxBzxO02Ef).[LVP]
 - OpenReview [Efficient Multi-modal Large Language Models via Visual Token Grouping](https://openreview.net/pdf?id=ym1dS37mZE) .[VisToG]
