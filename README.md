@@ -2,6 +2,7 @@
 🔥🔥🔥 A paper list of some recent  works about Token Compress for Vit and VLM.
 ## VLM
 ### 2024
+- <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2412.04449-red?logo=arxiv" height="14" />  [p-MoD: Building Mixture-of-Depths MLLMs via Progressive Ratio Decay](https://arxiv.org/pdf/2412.04449). [p-MoD: [GitHub](https://github.com/MCG-NJU/p-MoD)]
 -  <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2412.01818-red?logo=arxiv" height="14" />  [[CLS] Attention is All You Need for Training-Free Visual Token Pruning: Make VLM Inference Faster](https://arxiv.org/pdf/2412.01818). [FasterVLM: [GitHub](https://github.com/Theia-4869/FasterVLM)]
 - OpenReview [LLaVA-Mini: Efficient Image and Video Large Multimodal Models with One Vision Token](https://openreview.net/pdf?id=UQJ7CDW8nb). [LLaVA-Mini] 
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2411.17686-red?logo=arxiv" height="14" />  [Rethinking Token Reduction in MLLMs: Towards a Unified Paradigm for Training-Free Acceleration](https://arxiv.org/pdf/2411.17686) .[FiCoCo;]
