@@ -3,6 +3,7 @@
 ## VLM
 ### 2024
 -  <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2412.01818-red?logo=arxiv" height="14" />  [[CLS] Attention is All You Need for Training-Free Visual Token Pruning: Make VLM Inference Faster](https://arxiv.org/pdf/2412.01818). [FasterVLM: [GitHub](https://github.com/Theia-4869/FasterVLM)]
+-  <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2412.00447-red?logo=arxiv" height="14" />  [ATP-LLaVA: Adaptive Token Pruning for Large Vision Language Models](https://arxiv.org/pdf/2412.00447). [ATP-LLaVA]
 - OpenReview [LLaVA-Mini: Efficient Image and Video Large Multimodal Models with One Vision Token](https://openreview.net/pdf?id=UQJ7CDW8nb). [LLaVA-Mini] 
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2411.17686-red?logo=arxiv" height="14" />  [Rethinking Token Reduction in MLLMs: Towards a Unified Paradigm for Training-Free Acceleration](https://arxiv.org/pdf/2411.17686) .[FiCoCo;]
 - OpenReview [LVP: Language-guide Visual Projector for Efficient Multimodal LLM](https://openreview.net/pdf?id=PxBzxO02Ef).[LVP]
@@ -76,7 +77,6 @@ Adaptive Token Reduction for Efficient Large Multimodal Models](https://arxiv.or
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2106.02852-red?logo=arxiv" height="14" /> [Patch Slimming for Efficient Vision Transformers](https://arxiv.org/abs/2106.02852) . [Patch Slimming;]
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2106.02034-red?logo=arxiv" height="14" /> [DynamicViT: Efficient Vision Transformers with Dynamic Token Sparsificationr](https://arxiv.org/abs/2106.02034) . [DynamicViT;NeurIPS 2021;[Github](https://github.com/raoyongming/DynamicViT)]
   
-
 
 
 
