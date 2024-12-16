@@ -2,6 +2,8 @@
 🔥🔥🔥 A paper list of some recent  works about Token Compress for Vit and VLM.
 ## VLM
 ### 2024
+- <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2412.09613-red?logo=arxiv" height="14" />  [PVC: Progressive Visual Token Compression for Unified Image and Video Processing in Large Vision-Language Models](https://arxiv.org/pdf/2412.09613). [PVC;Video;[GitHub](https://github.com/OpenGVLab/PVC)]
+
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2412.09530-red?logo=arxiv" height="14" />  [Dynamic-VLM: Simple Dynamic Visual Token Compression for VideoLLM](https://arxiv.org/pdf/2412.09530). [Dynamic-VLM;Video;]
 
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2412.04467-red?logo=arxiv" height="14" />  [VisionZip: Longer is Better but Not Necessary in Vision Language Models](https://arxiv.org/pdf/2412.04467). [VisionZip;Video;[GitHub](https://github.com/dvlab-research/VisionZip)]
@@ -48,6 +50,7 @@
 -  <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2403.15388-red?logo=arxiv" height="14" />  [LLaVA-PruMerge:
 Adaptive Token Reduction for Efficient Large Multimodal Models](https://arxiv.org/abs/2403.15388.pdf) .  [LLaVA-PruMerge;[Github](https://github.com/42Shawn/LLaVA-PruMerge)]
 -  <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2403.06764-red?logo=arxiv" height="14" />  [An Image is Worth 1/2 Tokens After Layer 2: Plug-and-PLay Acceleration for VLLM Inference](https://arxiv.org/pdf/2403.06764) .  [FastV;ECCV 2024;[Github](https://github.com/pkunlp-icler/FastV)]
+
 
 -  <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2402.03766-red?logo=arxiv" height="14" />  [MobileVLM V2: Faster and Stronger Baseline for Vision Language Model](https://arxiv.org/abs/2402.03766.pdf) .    [LDP-v2;[Github](https://github.com/Meituan-AutoML/MobileVLM)]
 
