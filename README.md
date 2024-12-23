@@ -2,6 +2,9 @@
 🔥🔥🔥 A paper list of some recent  works about Token Compress for Vit and VLM.
 ## VLM
 ### 2024
+
+- <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2412.13303-red?logo=arxiv" height="14" />  [FastVLM: Efficient Vision Encoding for Vision Language Models](https://arxiv.org/pdf/2412.13303). [FastVLM;Apple;]
+
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2412.09613-red?logo=arxiv" height="14" />  [PVC: Progressive Visual Token Compression for Unified Image and Video Processing in Large Vision-Language Models](https://arxiv.org/pdf/2412.09613). [PVC;Video;[GitHub](https://github.com/OpenGVLab/PVC)]
 
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2412.09530-red?logo=arxiv" height="14" />  [Dynamic-VLM: Simple Dynamic Visual Token Compression for VideoLLM](https://arxiv.org/pdf/2412.09530). [Dynamic-VLM;Video;]
