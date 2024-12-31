@@ -3,6 +3,8 @@
 ## VLM
 ### 2024
 
+- <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2412.20504-red?logo=arxiv" height="14" />  [RETAKE: Reducing Temporal and Knowledge Redundancy for Long Video Understanding](https://arxiv.org/pdf/2412.20504). [RETAKE;Video;[GitHub](https://github.com/SCZwangxiao/video-ReTaKe)]
+
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2412.13303-red?logo=arxiv" height="14" />  [FastVLM: Efficient Vision Encoding for Vision Language Models](https://arxiv.org/pdf/2412.13303). [FastVLM;Apple;]
 
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2412.09613-red?logo=arxiv" height="14" />  [PVC: Progressive Visual Token Compression for Unified Image and Video Processing in Large Vision-Language Models](https://arxiv.org/pdf/2412.09613). [PVC;Video;[GitHub](https://github.com/OpenGVLab/PVC)]
