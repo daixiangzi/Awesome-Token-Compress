@@ -3,7 +3,7 @@
 ## VLM
 ### 2025
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2501.03895-red?logo=arxiv" height="14" />  [LLaVA-Mini: Efficient Image and Video Large Multimodal Models with One Vision Token](https://arxiv.org/pdf/2501.03895). [LLAVA-MINI;[GitHub](https://github.com/ictnlp/LLaVA-Mini)]
-- <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2501.01986-red?logo=arxiv" height="14" />  [FrameFusion: Combining Similarity and Importance for Video Token Reduction on Large Visual Language Models](https://arxiv.org/pdf/2501.01986). [FrameFusion;Video[GitHub](https://github.com/thu-nics/FrameFusion)]
+- <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2501.01986-red?logo=arxiv" height="14" />  [FrameFusion: Combining Similarity and Importance for Video Token Reduction on Large Visual Language Models](https://arxiv.org/pdf/2501.01986). [FrameFusion;Video;[GitHub](https://github.com/thu-nics/FrameFusion)]
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2501.00574-red?logo=arxiv" height="14" />  [VideoChat-Flash: Hierarchical Compression for Long-Context Video Modeling](https://arxiv.org/pdf/2501.00574). [VideoChat-Flash;Video;[GitHub](https://github.com/OpenGVLab/VideoChat-Flash)]
 ### 2024
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2412.20504-red?logo=arxiv" height="14" />  [RETAKE: Reducing Temporal and Knowledge Redundancy for Long Video Understanding](https://arxiv.org/pdf/2412.20504). [RETAKE;Video;[GitHub](https://github.com/SCZwangxiao/video-ReTaKe)]
