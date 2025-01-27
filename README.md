@@ -2,6 +2,7 @@
 🔥🔥🔥 A paper list of some recent  works about Token Compress for Vit and VLM.
 ## VLM
 ### 2025
+- <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2501.14204-red?logo=arxiv" height="14" />  [DyRate:Dynamic Token Reduction during Generation for Vision Language Models](https://arxiv.org/pdf/2501.14204). [DyRate]
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2501.09532-red?logo=arxiv" height="14" />  [AdaFV: Accelerating VLMs with Self-Adaptive Cross-Modality Attention Mixture](https://arxiv.org/pdf/2501.09532). [AdaFV]
 
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2501.03895-red?logo=arxiv" height="14" />  [LLaVA-Mini: Efficient Image and Video Large Multimodal Models with One Vision Token](https://arxiv.org/pdf/2501.03895). [LLAVA-MINI;[GitHub](https://github.com/ictnlp/LLaVA-Mini)]
