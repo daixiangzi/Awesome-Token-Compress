@@ -2,6 +2,7 @@
 🔥🔥🔥 A paper list of some recent  works about Token Compress for Vit and VLM.
 ## VLM
 ### 2025
+- OpenReview [Dynamic-LLaVA: Efficient Multimodal Large Language Models via Dynamic Vision-language Context Sparsification](https://openreview.net/pdf?id=hzVpZDrW73). [Dynamic-LLaVA; ICLR2025; [GitHub](https://github.com/Osilly/dynamic_llava)]
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2503.02175-red?logo=arxiv" height="14" />  [DivPrune: Diversity-based Visual Token Pruning for Large Multimodal Models](https://arxiv.org/pdf/2503.02175). [DivPrune;[GitHub](https://github.com/vbdi/divprune)]
 
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2502.18512-red?logo=arxiv" height="14" />  [FCoT-VL:Advancing Text-oriented Large Vision-Language Models with Efficient Visual Token Compression](https://arxiv.org/pdf/2502.18512). [FCoT-VL;]
