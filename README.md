@@ -2,6 +2,12 @@
 🔥🔥🔥 A paper list of some recent  works about Token Compress for Vit and VLM.
 ## VLM
 ### 2025
+- <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2503.16980-red?logo=arxiv" height="14" />  [Token Dynamics: Towards Efficient and Dynamic Video Token Representation for Video Large Language Model](https://arxiv.org/pdf/2503.16980). [Token Dynamics;Video]
+
+- <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2503.16036-red?logo=arxiv" height="14" />  [HICom:Hybrid-Level Instruction Injection for Video Token Compression in Multi-modal Large Language Models](https://arxiv.org/pdf/2503.16036). [HICom;2025 CVPR;Video;[GitHub](https://github.com/lntzm/HICom)]
+
+- <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2503.11549-red?logo=arxiv" height="14" />  [SAINT：Similarity-Aware Token Pruning: Your VLM but Faster](https://arxiv.org/pdf/2503.11549). [SAINT;[GitHub](https://github.com/ArmenJeddi/saint)]
+
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2503.04130-red?logo=arxiv" height="14" />  [STORM:Token-Efficient Long Video Understanding for Multimodal LLMs](https://arxiv.org/pdf/2503.04130). [STORM;Video;NVIDIA]
 
 - OpenReview [Dynamic-LLaVA: Efficient Multimodal Large Language Models via Dynamic Vision-language Context Sparsification](https://openreview.net/pdf?id=hzVpZDrW73). [Dynamic-LLaVA; ICLR2025; [GitHub](https://github.com/Osilly/dynamic_llava)]
