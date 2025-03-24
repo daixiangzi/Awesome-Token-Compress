@@ -2,6 +2,8 @@
 🔥🔥🔥 A paper list of some recent  works about Token Compress for Vit and VLM.
 ## VLM
 ### 2025
+- <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2503.07588-red?logo=arxiv" height="14" />  [When Large Vision-Language Model Meets Large Remote Sensing Imagery: Coarse-to-Fine Text-Guided Token Pruning](https://arxiv.org/pdf/2503.07588). [LRS-VQA;[GitHub](https://github.com/VisionXLab/LRS-VQA)]
+- 
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2503.16980-red?logo=arxiv" height="14" />  [Token Dynamics: Towards Efficient and Dynamic Video Token Representation for Video Large Language Model](https://arxiv.org/pdf/2503.16980). [Token Dynamics;Video]
 
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2503.16036-red?logo=arxiv" height="14" />  [HICom:Hybrid-Level Instruction Injection for Video Token Compression in Multi-modal Large Language Models](https://arxiv.org/pdf/2503.16036). [HICom;2025 CVPR;Video;[GitHub](https://github.com/lntzm/HICom)]
