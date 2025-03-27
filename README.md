@@ -6,6 +6,8 @@
 
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2503.16036-red?logo=arxiv" height="14" />  [HICom:Hybrid-Level Instruction Injection for Video Token Compression in Multi-modal Large Language Models](https://arxiv.org/pdf/2503.16036). [HICom;2025 CVPR;Video;[GitHub](https://github.com/lntzm/HICom)]
 
+- <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2503.11187-red?logo=arxiv" height="14" />  [FastVID: Dynamic Density Pruning for Fast Video Large Language Models](https://arxiv.org/abs/2503.11187). [FastVID;[GitHub](https://github.com/LunarShen/FastVID)]
+
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2503.11549-red?logo=arxiv" height="14" />  [SAINT：Similarity-Aware Token Pruning: Your VLM but Faster](https://arxiv.org/pdf/2503.11549). [SAINT;[GitHub](https://github.com/ArmenJeddi/saint)]
 
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2503.04130-red?logo=arxiv" height="14" />  [STORM:Token-Efficient Long Video Understanding for Multimodal LLMs](https://arxiv.org/pdf/2503.04130). [STORM;Video;NVIDIA]
