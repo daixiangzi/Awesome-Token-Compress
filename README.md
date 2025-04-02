@@ -2,8 +2,9 @@
 🔥🔥🔥 A paper list of some recent  works about Token Compress for Vit and VLM.
 ## VLM
 ### 2025
-- <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2503.21307-red?logo=arxiv" height="14" />  [InternVL-X: Advancing and Accelerating InternVL Series with Efficient Visual Token Compression](https://arxiv.org/pdf/2503.21307). [InternVL-X;[GitHub](https://github.com/ludc506/InternVL-X)]
+- <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2504.00654-red?logo=arxiv" height="14" />  [QG-VTC: Question-Guided Visual Token Compression in MLLMs for Efficient VQA](https://arxiv.org/pdf/2504.00654). [QG-VTC;VQA]
 
+- <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2503.21307-red?logo=arxiv" height="14" />  [InternVL-X: Advancing and Accelerating InternVL Series with Efficient Visual Token Compression](https://arxiv.org/pdf/2503.21307). [InternVL-X;[GitHub](https://github.com/ludc506/InternVL-X)]
 
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2503.16980-red?logo=arxiv" height="14" />  [Token Dynamics: Towards Efficient and Dynamic Video Token Representation for Video Large Language Model](https://arxiv.org/pdf/2503.16980). [Token Dynamics;Video]
 
@@ -94,6 +95,9 @@ Adaptive Token Reduction for Efficient Large Multimodal Models](https://arxiv.or
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2305.17455-red?logo=arxiv" height="14" /> [CrossGET: Cross-Guided Ensemble of Tokens for Accelerating Vision-Language Transformers](https://arxiv.org/pdf/2305.17455v4) . [CrossGET;	ICML 2024;[Github](https://github.com/sdc17/CrossGET)]
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2301.12597-red?logo=arxiv" height="14" /> [BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models](https://arxiv.org/abs/2301.12597) . [Q-former;[Github](https://github.com/salesforce/LAVIS/tree/main/projects/blip2)]
 ## Vit
+### 2025
+-  <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2503.23455-red?logo=arxiv" height="14" />  [Prune and Merge: Efficient Token Compression For Vision Transformer With Spatial Information Preserved](https://arxiv.org/pdf/2503.23455) . [Prune and Merge;[Github](https://github.com/NUST-Machine-Intelligence-Laboratory/prune_and_merge)]
+
 ### 2024
 -  <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2412.00965-red?logo=arxiv" height="14" />  [Token Cropr: Faster ViTs for Quite a Few Tasks](https://arxiv.org/pdf/2412.00965).[Token Cropr;]
 -  <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2408.17062-red?logo=arxiv" height="14" />  [Vote&Mix: Plug-and-Play Token Reduction for Efficient Vision Transformer](https://arxiv.org/pdf/2408.17062) . [Vote&Mix;]
