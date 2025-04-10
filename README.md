@@ -1,8 +1,11 @@
 # Awesome-Token-Compress
-🔥🔥🔥 A paper list of some recent  works about Token Compress for Vit and VLM.
+:fire::fire::fire: A paper list of some recent  works about Token Compress for Vit and VLM.
 ## VLM
 ### 2025
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2504.00654-red?logo=arxiv" height="14" />  [QG-VTC: Question-Guided Visual Token Compression in MLLMs for Efficient VQA](https://arxiv.org/pdf/2504.00654). [QG-VTC;VQA]
+
+- <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2504.00557-red?logo=arxiv" height="14" /> [Efficient LLaMA-3.2-Vision by Trimming Cross-attended Visual Features
+](https://arxiv.org/pdf/2504.00557). [Trimmed LLaMA;cross attention]
 
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2503.21307-red?logo=arxiv" height="14" />  [InternVL-X: Advancing and Accelerating InternVL Series with Efficient Visual Token Compression](https://arxiv.org/pdf/2503.21307). [InternVL-X;[GitHub](https://github.com/ludc506/InternVL-X)]
 
@@ -92,7 +95,7 @@ Adaptive Token Reduction for Efficient Large Multimodal Models](https://arxiv.or
 -  <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2312.06742-red?logo=arxiv" height="14" /> [Honeybee: Locality-enhanced Projector for Multimodal LLM](https://arxiv.org/abs/2312.06742) . [C-Abstractor;CVPR 2024;[Github](https://github.com/khanrc/honeybee?tab=readme-ov-file) ] 
 -  <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2311.17043-red?logo=arxiv" height="14" /> [LLaMA-VID: An Image is Worth 2 Tokens in Large Language Models](https://arxiv.org/abs/2311.17043) . [LLaMA-VID;ECCV 2024;[Github](https://github.com/dvlab-research/LLaMA-VID/tree/main) ] 
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2308.12966-red?logo=arxiv" height="14" /> [Qwen-VL: A Versatile Vision-Language Model for Understanding, Localization, Text Reading, and Beyond](https://arxiv.org/pdf/2308.12966v2) . [Resampler;[Github](https://github.com/QwenLM/Qwen-VL)]
-- <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2305.17455-red?logo=arxiv" height="14" /> [CrossGET: Cross-Guided Ensemble of Tokens for Accelerating Vision-Language Transformers](https://arxiv.org/pdf/2305.17455v4) . [CrossGET;	ICML 2024;[Github](https://github.com/sdc17/CrossGET)]
+- <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2305.17455-red?logo=arxiv" height="14" /> [CrossGET: Cross-Guided Ensemble of Tokens for Accelerating Vision-Language Transformers](https://arxiv.org/pdf/2305.17455v4) . [CrossGET; ICML 2024;[Github](https://github.com/sdc17/CrossGET)]
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2301.12597-red?logo=arxiv" height="14" /> [BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models](https://arxiv.org/abs/2301.12597) . [Q-former;[Github](https://github.com/salesforce/LAVIS/tree/main/projects/blip2)]
 ## Vit
 ### 2025
@@ -121,7 +124,3 @@ Adaptive Token Reduction for Efficient Large Multimodal Models](https://arxiv.or
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2108.01390-red?logo=arxiv" height="14" /> [Evo-ViT: Slow-Fast Token Evolution for Dynamic Vision Transformer](https://arxiv.org/abs/2108.01390) . [Evo-ViT;AAAI 2022;[Github](https://github.com/YifanXu74/Evo-ViT)]
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2106.02852-red?logo=arxiv" height="14" /> [Patch Slimming for Efficient Vision Transformers](https://arxiv.org/abs/2106.02852) . [Patch Slimming;]
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2106.02034-red?logo=arxiv" height="14" /> [DynamicViT: Efficient Vision Transformers with Dynamic Token Sparsificationr](https://arxiv.org/abs/2106.02034) . [DynamicViT;NeurIPS 2021;[Github](https://github.com/raoyongming/DynamicViT)]
-  
-
-
-
