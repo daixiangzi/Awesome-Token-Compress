@@ -2,6 +2,9 @@
 🔥🔥🔥 A paper list of some recent  works about Token Compress for Vit and VLM.
 ## VLM
 ### 2025
+- <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2504.17040-red?logo=arxiv" height="14" />  [DYMU: Dynamic Merging and Virtual Unmerging for Efficient VLMs](https://arxiv.org/pdf/2504.17040). [DYMU;[GitHub](https://github.com/MikeWangWZHL/dymu)]
+
+
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2504.15270-red?logo=arxiv" height="14" />  [Quicksviewer: An LMM for Efficient Video Understanding via Reinforced Compression of Video Cubes](https://arxiv.org/pdf/2504.15270). [Quicksviewer;Video;[GitHub](https://github.com/quicksviewer/quicksviewer)]
 
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2504.08966-red?logo=arxiv" height="14" />  [PACT: Pruning and Clustering-Based Token Reduction for Faster Visual Language Models](https://arxiv.org/pdf/2504.08966). [PACT;CVPR 2025;[GitHub](https://github.com/orailix/PACT/tree/main)]
