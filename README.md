@@ -2,8 +2,10 @@
 🔥🔥🔥 A paper list of some recent  works about Token Compress for Vit and VLM.
 ## VLM
 ### 2025
-- <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2504.17040-red?logo=arxiv" height="14" />  [DYMU: Dynamic Merging and Virtual Unmerging for Efficient VLMs](https://arxiv.org/pdf/2504.17040). [DYMU;[GitHub](https://github.com/MikeWangWZHL/dymu)]
 
+- <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2504.20384-red?logo=arxiv" height="14" />  [FiLA-Video: Spatio-Temporal Compression for Fine-Grained Long Video Understanding](https://arxiv.org/pdf/2504.20384). [FiLA-Video;Video]
+
+- <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2504.17040-red?logo=arxiv" height="14" />  [DYMU: Dynamic Merging and Virtual Unmerging for Efficient VLMs](https://arxiv.org/pdf/2504.17040). [DYMU;[GitHub](https://github.com/MikeWangWZHL/dymu)]
 
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2504.15270-red?logo=arxiv" height="14" />  [Quicksviewer: An LMM for Efficient Video Understanding via Reinforced Compression of Video Cubes](https://arxiv.org/pdf/2504.15270). [Quicksviewer;Video;[GitHub](https://github.com/quicksviewer/quicksviewer)]
 
