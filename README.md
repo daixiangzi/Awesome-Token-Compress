@@ -5,6 +5,9 @@
 
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2504.20384-red?logo=arxiv" height="14" />  [FiLA-Video: Spatio-Temporal Compression for Fine-Grained Long Video Understanding](https://arxiv.org/pdf/2504.20384). [FiLA-Video;Video]
 
+
+- <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2504.17343-red?logo=arxiv" height="14" /> [TimeChat-Online: 80% Visual Tokens are Naturally Redundant in Streaming Videos](https://arxiv.org/pdf/2504.17343). [TimeChat-Online; Video; [GitHub](https://github.com/yaolinli/TimeChat-Online)]
+
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2504.17040-red?logo=arxiv" height="14" />  [DYMU: Dynamic Merging and Virtual Unmerging for Efficient VLMs](https://arxiv.org/pdf/2504.17040). [DYMU;[GitHub](https://github.com/MikeWangWZHL/dymu)]
 
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2504.15270-red?logo=arxiv" height="14" />  [Quicksviewer: An LMM for Efficient Video Understanding via Reinforced Compression of Video Cubes](https://arxiv.org/pdf/2504.15270). [Quicksviewer;Video;[GitHub](https://github.com/quicksviewer/quicksviewer)]
@@ -60,7 +63,7 @@
 -  <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2411.15024-red?logo=arxiv" height="14" />  [DyCoke:Dynamic Compression of Tokens for Fast Video Large Language Models](https://arxiv.org/pdf/2411.15024) .[DyCoke;Video;[Github](https://github.com/KD-TAO/DyCoke)]
 -  <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2411.14228-red?logo=arxiv" height="14" />  [FocusLLaVA: A Coarse-to-Fine Approach for Efficient and Effective Visual Token Compression](https://arxiv.org/pdf/2411.14228) .[FocusLLaVA;]
 -  <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2411.10803-red?logo=arxiv" height="14" />  [MustDrop:Multi-Stage Vision Token Dropping: Towards Efficient Multimodal Large Language Model](https://arxiv.org/pdf/2411.10803) .[MustDrop;[Github](https://github.com/liuting20/MustDrop)]
--  <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2411.05222-red?logo=arxiv" height="14" />  [Don’t Look Twice: Faster Video Transformers with Run-Length Tokenization](https://arxiv.org/pdf/2411.05222) .[RLT;Video;NeurIPS 2024;[Github](https://rccchoudhury.github.io/projects/rlt/)]
+-  <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2411.05222-red?logo=arxiv" height="14" />  [Don't Look Twice: Faster Video Transformers with Run-Length Tokenization](https://arxiv.org/pdf/2411.05222) .[RLT;Video;NeurIPS 2024;[Github](https://rccchoudhury.github.io/projects/rlt/)]
 -  <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2411.03312-red?logo=arxiv" height="14" />  [Inference Optimal VLMs Need Only One Visual Token but Larger Models](https://arxiv.org/pdf/2411.03312) .[QueCC;[Github](https://github.com/locuslab/llava-token-compression)]
 -  <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2410.23782-red?logo=arxiv" height="14" />  [Video Token Merging for Long-form Video Understandin](https://arxiv.org/pdf/2410.23782) .[Learnable VTM;Video]
 -  <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2410.17434-red?logo=arxiv" height="14" />  [LongVU: Spatiotemporal Adaptive Compression for Long Video-Language Understanding](https://arxiv.org/pdf/2410.17434) .[LongVU;Video;[Github](https://github.com/Vision-CAIR/LongVU)]
