@@ -3,6 +3,9 @@
 ## VLM
 ### 2025
 
+- <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2505.11945-red?logo=arxiv" height="14" />  [Top-Down Compression: Revisit Efficient Vision Token Projection for Visual Instruction Tuning](https://arxiv.org/pdf/2505.11945). [LLaVA-Meteor]
+
+
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2504.20384-red?logo=arxiv" height="14" />  [FiLA-Video: Spatio-Temporal Compression for Fine-Grained Long Video Understanding](https://arxiv.org/pdf/2504.20384). [FiLA-Video;Video]
 
 
