@@ -2,6 +2,8 @@
 🔥🔥🔥 A paper list of some recent  works about Token Compress for Vit and VLM.
 ## VLM
 ### 2025
+- <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2505.15529-red?logo=arxiv" height="14" /> [Clapper: Compact Learning and Video Representation in VLMs](https://arxiv.org/pdf/2505.15529). [Clapper; Video]
+
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2505.14454-red?logo=arxiv" height="14" /> [Video Compression Commander:Plug-and-Play Inference Acceleration for Video Large Language Models](https://arxiv.org/pdf/2505.14454). [VidCom2; Video; [GitHub](https://github.com/xuyang-liu16/VidCom2)]
 
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2505.11945-red?logo=arxiv" height="14" />  [Top-Down Compression: Revisit Efficient Vision Token Projection for Visual Instruction Tuning](https://arxiv.org/pdf/2505.11945). [LLaVA-Meteor]
@@ -112,6 +114,8 @@ Adaptive Token Reduction for Efficient Large Multimodal Models](https://arxiv.or
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2301.12597-red?logo=arxiv" height="14" /> [BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models](https://arxiv.org/abs/2301.12597) . [Q-former;[Github](https://github.com/salesforce/LAVIS/tree/main/projects/blip2)]
 ## Vit
 ### 2025
+-  <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2505.15160-red?logo=arxiv" height="14" />  [Lossless Token Merging Even Without Fine-Tuning in Vision Transformers](https://arxiv.org/pdf/2505.15160) . [ATM]
+
 -  <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2503.23455-red?logo=arxiv" height="14" />  [Prune and Merge: Efficient Token Compression For Vision Transformer With Spatial Information Preserved](https://arxiv.org/pdf/2503.23455) . [Prune and Merge;[Github](https://github.com/NUST-Machine-Intelligence-Laboratory/prune_and_merge)]
 
 ### 2024
