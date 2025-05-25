@@ -9,10 +9,10 @@
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2505.14454-red?logo=arxiv" height="14" /> [Video Compression Commander:Plug-and-Play Inference Acceleration for Video Large Language Models](https://arxiv.org/pdf/2505.14454). [VidCom2; Video; [GitHub](https://github.com/xuyang-liu16/VidCom2)]
 
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2505.11945-red?logo=arxiv" height="14" />  [Top-Down Compression: Revisit Efficient Vision Token Projection for Visual Instruction Tuning](https://arxiv.org/pdf/2505.11945). [LLaVA-Meteor]
-
-
+  
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2504.20384-red?logo=arxiv" height="14" />  [FiLA-Video: Spatio-Temporal Compression for Fine-Grained Long Video Understanding](https://arxiv.org/pdf/2504.20384). [FiLA-Video;Video]
 
+- <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2504.19627-red?logo=arxiv" height="14" />  [VCM: Vision Concept Modeling with Adaptive Vision Token Compression via Instruction Fine-Tuning](https://arxiv.org/pdf/2504.19627). [VCM]
 
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2504.17343-red?logo=arxiv" height="14" /> [TimeChat-Online: 80% Visual Tokens are Naturally Redundant in Streaming Videos](https://arxiv.org/pdf/2504.17343). [TimeChat-Online; Video; [GitHub](https://github.com/yaolinli/TimeChat-Online)]
 
