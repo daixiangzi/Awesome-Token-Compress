@@ -2,6 +2,7 @@
 🔥🔥🔥 A paper list of some recent  works about Token Compress for Vit and VLM.
 ## VLM
 ### 2025
+- <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2505.20100-red?logo=arxiv" height="14" /> [AdaTP: Attention-Debiased Token Pruning for Video Large Language Models](https://arxiv.org/pdf/2505.20100). [AdaTP; Video;]
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2505.17020-red?logo=arxiv" height="14" /> [CrossLMM: Decoupling Long Video Sequences from LMMs via Dual Cross-Attention Mechanisms](https://arxiv.org/pdf/2505.17020). [CrossLMM; Video; [GitHub](https://github.com/shilinyan99/CrossLMM)]
 
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2505.15529-red?logo=arxiv" height="14" /> [Clapper: Compact Learning and Video Representation in VLMs](https://arxiv.org/pdf/2505.15529). [Clapper; Video]
