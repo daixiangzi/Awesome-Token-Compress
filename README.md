@@ -27,8 +27,6 @@
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2504.08966-red?logo=arxiv" height="14" />  [PACT: Pruning and Clustering-Based Token Reduction for Faster Visual Language Models](https://arxiv.org/pdf/2504.08966). [PACT;CVPR 2025;[GitHub](https://github.com/orailix/PACT/tree/main)]
 
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2504.00654-red?logo=arxiv" height="14" />  [QG-VTC: Question-Guided Visual Token Compression in MLLMs for Efficient VQA](https://arxiv.org/pdf/2504.00654). [QG-VTC;VQA]
-
-- <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2503.21307-red?logo=arxiv" height="14" />  [Plug-and-Play 1.x-Bit KV Cache Quantization for Video Large Language Models](https://arxiv.org/pdf/2503.16257). [VidKV; [GitHub](https://github.com/KD-TAO/VidKV)]
   
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2503.21307-red?logo=arxiv" height="14" />  [TopV: Compatible Token Pruning with Inference Time Optimization for Fast and Low-Memory Multimodal Vision Language Model](https://arxiv.org/pdf/2503.18278). [TopV; CVPR 2025]
 
