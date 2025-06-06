@@ -2,7 +2,7 @@
 🔥🔥🔥 A paper list of some recent  works about Token Compress for Vit and VLM.
 ## VLM
 ### 2025
-- <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2505.17020-red?logo=arxiv" height="14" /> [HoliTom: Holistic Token Merging for Fast Video Large Language Models](https://arxiv.org/pdf/2505.21334). [HoliTom; Video; [GitHub](https://github.com/cokeshao/HoliTom)]
+- <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2505.21334-red?logo=arxiv" height="14" /> [HoliTom: Holistic Token Merging for Fast Video Large Language Models](https://arxiv.org/pdf/2505.21334). [HoliTom; Video; [GitHub](https://github.com/cokeshao/HoliTom)]
 
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2505.20100-red?logo=arxiv" height="14" /> [AdaTP: Attention-Debiased Token Pruning for Video Large Language Models](https://arxiv.org/pdf/2505.20100). [AdaTP; Video;]
   
@@ -28,7 +28,7 @@
 
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2504.00654-red?logo=arxiv" height="14" />  [QG-VTC: Question-Guided Visual Token Compression in MLLMs for Efficient VQA](https://arxiv.org/pdf/2504.00654). [QG-VTC;VQA]
   
-- <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2503.21307-red?logo=arxiv" height="14" />  [TopV: Compatible Token Pruning with Inference Time Optimization for Fast and Low-Memory Multimodal Vision Language Model](https://arxiv.org/pdf/2503.18278). [TopV; CVPR 2025]
+- <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2503.18278-red?logo=arxiv" height="14" />  [TopV: Compatible Token Pruning with Inference Time Optimization for Fast and Low-Memory Multimodal Vision Language Model](https://arxiv.org/pdf/2503.18278). [TopV; CVPR 2025]
 
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2503.21307-red?logo=arxiv" height="14" />  [InternVL-X: Advancing and Accelerating InternVL Series with Efficient Visual Token Compression](https://arxiv.org/pdf/2503.21307). [InternVL-X;[GitHub](https://github.com/ludc506/InternVL-X)]
 
