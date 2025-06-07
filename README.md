@@ -2,6 +2,9 @@
 🔥🔥🔥 A paper list of some recent  works about Token Compress for Vit and VLM.
 ## VLM
 ### 2025
+
+- <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2506.03990-red?logo=arxiv" height="14" /> [DynTok: Dynamic Compression of Visual Tokens for Efficient and Effective Video Understanding](https://arxiv.org/pdf/2506.03990). [DynTok; Video;]
+
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2505.21334-red?logo=arxiv" height="14" /> [HoliTom: Holistic Token Merging for Fast Video Large Language Models](https://arxiv.org/pdf/2505.21334). [HoliTom; Video; [GitHub](https://github.com/cokeshao/HoliTom)]
 
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2505.20100-red?logo=arxiv" height="14" /> [AdaTP: Attention-Debiased Token Pruning for Video Large Language Models](https://arxiv.org/pdf/2505.20100). [AdaTP; Video;]
