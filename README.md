@@ -2,6 +2,8 @@
 🔥🔥🔥 A paper list of some recent  works about Token Compress for Vit and VLM.
 ## VLM
 ### 2025
+- <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2506.21862-red?logo=arxiv" height="14" /> [LLaVA-Scissor: Token Compression with Semantic Connected Components for Video LLMs](https://arxiv.org/pdf/2506.21862). [LLaVA-Scissor;Video; [GitHub](https://github.com/HumanMLLM/LLaVA-Scissor)]
+
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2506.13166-red?logo=arxiv" height="14" /> [GreedyPrune: Retenting Critical Visual Token Set for Large Vision Language Models](https://arxiv.org/pdf/2506.13166). [GreedyPrune;]
 
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2506.03990-red?logo=arxiv" height="14" /> [DynTok: Dynamic Compression of Visual Tokens for Efficient and Effective Video Understanding](https://arxiv.org/pdf/2506.03990). [DynTok; Video;]
