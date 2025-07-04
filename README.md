@@ -6,12 +6,14 @@
 
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2506.13166-red?logo=arxiv" height="14" /> [GreedyPrune: Retenting Critical Visual Token Set for Large Vision Language Models](https://arxiv.org/pdf/2506.13166). [GreedyPrune;]
 
+- <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2506.07138-red?logo=arxiv" height="14" /> [Learning Compact Vision Tokens for Efficient Large Multimodal Models](https://arxiv.org/abs/2506.07138). [LLaVA-STF;VQA; [GitHub](https://github.com/visresearch/LLaVA-STF)]
+
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2506.03990-red?logo=arxiv" height="14" /> [DynTok: Dynamic Compression of Visual Tokens for Efficient and Effective Video Understanding](https://arxiv.org/pdf/2506.03990). [DynTok; Video;]
 
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2505.21334-red?logo=arxiv" height="14" /> [HoliTom: Holistic Token Merging for Fast Video Large Language Models](https://arxiv.org/pdf/2505.21334). [HoliTom; Video; [GitHub](https://github.com/cokeshao/HoliTom)]
 
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2505.20100-red?logo=arxiv" height="14" /> [AdaTP: Attention-Debiased Token Pruning for Video Large Language Models](https://arxiv.org/pdf/2505.20100). [AdaTP; Video;]
-  
+
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2505.17020-red?logo=arxiv" height="14" /> [CrossLMM: Decoupling Long Video Sequences from LMMs via Dual Cross-Attention Mechanisms](https://arxiv.org/pdf/2505.17020). [CrossLMM; Video; [GitHub](https://github.com/shilinyan99/CrossLMM)]
 
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2505.15529-red?logo=arxiv" height="14" /> [Clapper: Compact Learning and Video Representation in VLMs](https://arxiv.org/pdf/2505.15529). [Clapper; Video]
@@ -19,7 +21,7 @@
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2505.14454-red?logo=arxiv" height="14" /> [Video Compression Commander:Plug-and-Play Inference Acceleration for Video Large Language Models](https://arxiv.org/pdf/2505.14454). [VidCom2; Video; [GitHub](https://github.com/xuyang-liu16/VidCom2)]
 
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2505.11945-red?logo=arxiv" height="14" />  [Top-Down Compression: Revisit Efficient Vision Token Projection for Visual Instruction Tuning](https://arxiv.org/pdf/2505.11945). [LLaVA-Meteor]
-  
+
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2504.20384-red?logo=arxiv" height="14" />  [FiLA-Video: Spatio-Temporal Compression for Fine-Grained Long Video Understanding](https://arxiv.org/pdf/2504.20384). [FiLA-Video;Video]
 
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2504.19627-red?logo=arxiv" height="14" />  [VCM: Vision Concept Modeling with Adaptive Vision Token Compression via Instruction Fine-Tuning](https://arxiv.org/pdf/2504.19627). [VCM]
@@ -33,7 +35,7 @@
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2504.08966-red?logo=arxiv" height="14" />  [PACT: Pruning and Clustering-Based Token Reduction for Faster Visual Language Models](https://arxiv.org/pdf/2504.08966). [PACT;CVPR 2025;[GitHub](https://github.com/orailix/PACT/tree/main)]
 
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2504.00654-red?logo=arxiv" height="14" />  [QG-VTC: Question-Guided Visual Token Compression in MLLMs for Efficient VQA](https://arxiv.org/pdf/2504.00654). [QG-VTC;VQA]
-  
+
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2503.18278-red?logo=arxiv" height="14" />  [TopV: Compatible Token Pruning with Inference Time Optimization for Fast and Low-Memory Multimodal Vision Language Model](https://arxiv.org/pdf/2503.18278). [TopV; CVPR 2025]
 
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2503.21307-red?logo=arxiv" height="14" />  [InternVL-X: Advancing and Accelerating InternVL Series with Efficient Visual Token Compression](https://arxiv.org/pdf/2503.21307). [InternVL-X;[GitHub](https://github.com/ludc506/InternVL-X)]
@@ -62,6 +64,7 @@
 
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2501.01986-red?logo=arxiv" height="14" />  [FrameFusion: Combining Similarity and Importance for Video Token Reduction on Large Visual Language Models](https://arxiv.org/pdf/2501.01986). [FrameFusion;Video;[GitHub](https://github.com/thu-nics/FrameFusion)]
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2501.00574-red?logo=arxiv" height="14" />  [VideoChat-Flash: Hierarchical Compression for Long-Context Video Modeling](https://arxiv.org/pdf/2501.00574). [VideoChat-Flash;Video;[GitHub](https://github.com/OpenGVLab/VideoChat-Flash)]
+
 ### 2024
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2412.20504-red?logo=arxiv" height="14" />  [RETAKE: Reducing Temporal and Knowledge Redundancy for Long Video Understanding](https://arxiv.org/pdf/2412.20504). [RETAKE;Video;[GitHub](https://github.com/SCZwangxiao/video-ReTaKe)]
 
