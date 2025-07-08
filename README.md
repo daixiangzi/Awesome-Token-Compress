@@ -2,6 +2,9 @@
 🔥🔥🔥 A paper list of some recent  works about Token Compress for Vit and VLM.
 ## VLM
 ### 2025
+
+- <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2507.02909-red?logo=arxiv" height="14" /> [Beyond Token Pruning: Operation Pruning in Vision-Language Models](https://arxiv.org/pdf/2507.02909). [GSOP; [GitHub](https://github.com/zxcvfd13502/GSOP)]
+
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2507.02279-red?logo=arxiv" height="14" /> [LaCo: Efficient Layer-wise Compression of Visual Tokens for Multimodal Large Language Models](https://arxiv.org/pdf/2507.02279). [LaCo;]
 
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2506.21862-red?logo=arxiv" height="14" /> [LLaVA-Scissor: Token Compression with Semantic Connected Components for Video LLMs](https://arxiv.org/pdf/2506.21862). [LLaVA-Scissor;Video; [GitHub](https://github.com/HumanMLLM/LLaVA-Scissor)]
