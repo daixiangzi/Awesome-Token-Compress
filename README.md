@@ -2,6 +2,8 @@
 🔥🔥🔥 A paper list of some recent  works about Token Compress for Vit and VLM.
 ## VLM
 ### 2025
+- <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2501.16297-red?logo=arxiv" height="14" /> [FALCON: Resolving Visual Redundancy and Fragmentation in High-resolution Multimodal Large Language Models via Visual Registers](https://arxiv.org/pdf/2501.16297). [Falcon; ICCV 2025; [GitHub](https://github.com/JiuTian-VL/FALCON)]
+
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2507.13348-red?logo=arxiv" height="14" /> [VisionThink: Smart and Efficient Vision Language Model via Reinforcement Learning](https://arxiv.org/pdf/2507.13348). [VisionThink; [GitHub](https://github.com/dvlab-research/VisionThink)]
 
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2507.02909-red?logo=arxiv" height="14" /> [Beyond Token Pruning: Operation Pruning in Vision-Language Models](https://arxiv.org/pdf/2507.02909). [GSOP; [GitHub](https://github.com/zxcvfd13502/GSOP)]
