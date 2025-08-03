@@ -2,6 +2,13 @@
 🔥🔥🔥 A paper list of some recent  works about Token Compress for Vit and VLM.
 ## VLM
 ### 2025
+
+- <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2507.23362-red?logo=arxiv" height="14" /> [Short-LVLM: Compressing and Accelerating Large
+Vision-Language Models by Pruning Redundant Layers](https://arxiv.org/pdf/2507.23362). [Short-LVLM; [GitHub](https://github.com/ASGO-MM/Short-LVLM)]
+
+- <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2507.20198-red?logo=arxiv" height="14" /> [When Tokens Talk Too Much: A Survey of
+Multimodal Long-Context Token Compression across Images, Videos, and Audios](https://arxiv.org/pdf/2507.20198). [Survey ;[GitHub](https://github.com/cokeshao/Awesome-Multimodal-Token-Compression)]
+
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2507.13348-red?logo=arxiv" height="14" /> [VisionThink: Smart and Efficient Vision Language Model via Reinforcement Learning](https://arxiv.org/pdf/2507.13348). [VisionThink; [GitHub](https://github.com/dvlab-research/VisionThink)]
 
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2507.07990-red?logo=arxiv" height="14" /> [Multi-Granular Spatio-Temporal Token Merging for Training-Free Acceleration of Video LLMs](https://arxiv.org/abs/2507.07990). [STTM;ICCV; [GitHub](https://github.com/HYUNJS/STTM)]
