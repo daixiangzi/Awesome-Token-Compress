@@ -3,6 +3,8 @@
 ## VLM
 ### 2025
 
+- <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2508.01548-red?logo=arxiv" height="14" /> [A Glimpse to Compress: Dynamic Visual Token Pruning for Large Vision-Language Models](https://arxiv.org/pdf/2508.01548). [GlimpsePrune; [GitHub](https://github.com/HVision-NKU/GlimpsePrune)]
+
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2507.23362-red?logo=arxiv" height="14" /> [Short-LVLM: Compressing and Accelerating Large
 Vision-Language Models by Pruning Redundant Layers](https://arxiv.org/pdf/2507.23362). [Short-LVLM; [GitHub](https://github.com/ASGO-MM/Short-LVLM)]
 
