@@ -3,6 +3,8 @@
 ## VLM
 ### 2025
 
+- <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2508.17857-red?logo=arxiv" height="14" /> [VISA: Group-wise Visual Token Selection and Aggregation via Graph Summarization for Efficient MLLMs Inference](https://arxiv.org/pdf/2508.17857). [VISA; [GitHub](https://github.com/mobiushy/VISA)]
+
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2508.00553-red?logo=arxiv" height="14" /> [HiPrune: Training-Free Visual Token Pruning via Hierarchical Attention in Vision-Language Models](https://arxiv.org/abs/2508.00553). [HiPrune; [GitHub](https://github.com/Danielement321/HiPrune)]
 
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2508.01548-red?logo=arxiv" height="14" /> [A Glimpse to Compress: Dynamic Visual Token Pruning for Large Vision-Language Models](https://arxiv.org/pdf/2508.01548). [GlimpsePrune; [GitHub](https://github.com/HVision-NKU/GlimpsePrune)]
