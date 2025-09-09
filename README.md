@@ -3,6 +3,8 @@
 ## VLM
 ### 2025
 
+- <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2509.00419-red?logo=arxiv" height="14" /> [LightVLM: Acceleraing Large Multimodal Models with Pyramid Token Merging and KV Cache Compression](https://arxiv.org/pdf/2509.00419). [LightVLM;]
+
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2508.21044-red?logo=arxiv" height="14" /> [MMG-Vid: Maximizing Marginal Gains at Segment-level
 and Token-level for Efficient Video LLMs](https://arxiv.org/pdf/2508.21044). [MMG-Vid;]
 
