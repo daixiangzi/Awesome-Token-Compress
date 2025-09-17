@@ -72,6 +72,8 @@ Multimodal Long-Context Token Compression across Images, Videos, and Audios](htt
 
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2503.16036-red?logo=arxiv" height="14" />  [HICom:Hybrid-Level Instruction Injection for Video Token Compression in Multi-modal Large Language Models](https://arxiv.org/pdf/2503.16036). [HICom;2025 CVPR;Video;[GitHub](https://github.com/lntzm/HICom)]
 
+- <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2503.14075-red?logo=arxiv" height="14" />  [TwigVLM: Growing a Twig to Accelerate Large Vision-Language Models](https://arxiv.org/abs/2503.14075). [TwigVLM; ICCV 2025;[GitHub](https://github.com/MILVLG/twigvlm)]
+  
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2503.11187-red?logo=arxiv" height="14" />  [FastVID: Dynamic Density Pruning for Fast Video Large Language Models](https://arxiv.org/abs/2503.11187). [FastVID;[GitHub](https://github.com/LunarShen/FastVID)]
 
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2503.11549-red?logo=arxiv" height="14" />  [SAINT：Similarity-Aware Token Pruning: Your VLM but Faster](https://arxiv.org/pdf/2503.11549). [SAINT;[GitHub](https://github.com/ArmenJeddi/saint)]
