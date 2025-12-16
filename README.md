@@ -4,7 +4,7 @@
 ### Visual Token Compression Benchmark 
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2511.02650-red?logo=arxiv" height="14" /> [Can Visual Input Be Compressed? A Visual Token Compression Benchmark for Large Multimodal Models](https://arxiv.org/pdf/2511.02650).
 ### 2025
-- <a href="https://openreview.net/pdf?id=bythzT0b81"><img alt="OpenReview" src="https://img.shields.io/badge/OpenReview-2510.bythzT0b81-red?logo=openreview" height="14" /></a> [One Token per Highly Selective Frame: Towards Extreme Compression for Long Video Understanding](https://openreview.net/pdf?id=bythzT0b81). [Video; NeurIPS 2025; [GitHub](https://github.com/ZheyuAqaZhang/XComp)]
+- <a href="https://openreview.net/pdf?id=bythzT0b81"><img alt="OpenReview" src="https://img.shields.io/badge/OpenReview-2511.bythzT0b81-red?logo=openreview" height="14" /></a> [One Token per Highly Selective Frame: Towards Extreme Compression for Long Video Understanding](https://openreview.net/pdf?id=bythzT0b81). [Video; NeurIPS 2025; [GitHub](https://github.com/ZheyuAqaZhang/XComp)]
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2511.21150-red?logo=arxiv" height="14" /> [LLaVA-UHD v3: Progressive Visual Compression for Efficient Native-Resolution Encoding in MLLMs](https://arxiv.org/pdf/2511.21150). [LLaVA-UHD v3;]
 
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2511.00141-red?logo=arxiv" height="14" /> [FloC: FACILITY LOCATION-BASED EFFICIENT VI- SUAL TOKEN COMPRESSION FOR LONG VIDEO UN- DERSTANDING](https://arxiv.org/pdf/2511.00141). [FloC;]
