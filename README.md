@@ -9,6 +9,8 @@ Efficient Vision-Language Models](https://arxiv.org/pdf/2512.14661). [Focus; [Gi
 
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2512.10324-red?logo=arxiv" height="14" /> [EchoingPixels: Cross-Modal Adaptive Token Reduction for Efficient Audio-Visual LLMs](https://arxiv.org/abs/2512.10324). [EchoingPixels; Audio-Video]
 
+- <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2512.08240-red?logo=arxiv" height="14" /> [HybridToken-VLM: Hybrid Token Compression for Vision-Language Models](https://arxiv.org/pdf/2512.08240). [HTC-VLM;]
+
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2511.21150-red?logo=arxiv" height="14" /> [LLaVA-UHD v3: Progressive Visual Compression for Efficient Native-Resolution Encoding in MLLMs](https://arxiv.org/pdf/2511.21150). [LLaVA-UHD v3;]
 
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2511.00141-red?logo=arxiv" height="14" /> [FloC: FACILITY LOCATION-BASED EFFICIENT VI- SUAL TOKEN COMPRESSION FOR LONG VIDEO UN- DERSTANDING](https://arxiv.org/pdf/2511.00141). [FloC;]
