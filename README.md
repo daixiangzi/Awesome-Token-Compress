@@ -4,6 +4,9 @@
 ### Visual Token Compression Benchmark 
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2511.02650-red?logo=arxiv" height="14" /> [Can Visual Input Be Compressed? A Visual Token Compression Benchmark for Large Multimodal Models](https://arxiv.org/pdf/2511.02650).
 ### 2025
+- <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2512.14661-red?logo=arxiv" height="14" /> [Focus: A Streaming Concentration Architecture for
+Efficient Vision-Language Models](https://arxiv.org/pdf/2512.14661). [Focus; [GitHub](https://github.com/dubcyfor3/Focus)]
+
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2512.10324-red?logo=arxiv" height="14" /> [EchoingPixels: Cross-Modal Adaptive Token Reduction for Efficient Audio-Visual LLMs](https://arxiv.org/abs/2512.10324). [EchoingPixels; Audio-Video]
 
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2511.21150-red?logo=arxiv" height="14" /> [LLaVA-UHD v3: Progressive Visual Compression for Efficient Native-Resolution Encoding in MLLMs](https://arxiv.org/pdf/2511.21150). [LLaVA-UHD v3;]
