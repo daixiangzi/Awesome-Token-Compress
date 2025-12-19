@@ -4,6 +4,7 @@
 ### Visual Token Compression Benchmark 
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2511.02650-red?logo=arxiv" height="14" /> [Can Visual Input Be Compressed? A Visual Token Compression Benchmark for Large Multimodal Models](https://arxiv.org/pdf/2511.02650).
 ### 2025
+- OpenReview [One Token per Highly Selective Frame: Towards Extreme Compression for Long Video Understanding](https://openreview.net/pdf?id=bythzT0b81). [XComp; NeurIPS 2025; [GitHub](https://github.com/ZheyuAqaZhang/XComp)]
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2512.14661-red?logo=arxiv" height="14" /> [Focus: A Streaming Concentration Architecture for
 Efficient Vision-Language Models](https://arxiv.org/pdf/2512.14661). [Focus; [GitHub](https://github.com/dubcyfor3/Focus)]
 
