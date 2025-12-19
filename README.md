@@ -4,7 +4,17 @@
 ### Visual Token Compression Benchmark 
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2511.02650-red?logo=arxiv" height="14" /> [Can Visual Input Be Compressed? A Visual Token Compression Benchmark for Large Multimodal Models](https://arxiv.org/pdf/2511.02650).
 ### 2025
-- <a href="https://openreview.net/pdf?id=bythzT0b81"><img alt="OpenReview" src="https://img.shields.io/badge/OpenReview-2511.bythzT0b81-red?logo=openreview" height="14" /></a> [One Token per Highly Selective Frame: Towards Extreme Compression for Long Video Understanding](https://openreview.net/pdf?id=bythzT0b81). [Video; NeurIPS 2025; [GitHub](https://github.com/ZheyuAqaZhang/XComp)]
+- OpenReview [One Token per Highly Selective Frame: Towards Extreme Compression for Long Video Understanding](https://openreview.net/pdf?id=bythzT0b81). [XComp; NeurIPS 2025; [GitHub](https://github.com/ZheyuAqaZhang/XComp)]
+- <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2512.14661-red?logo=arxiv" height="14" /> [Focus: A Streaming Concentration Architecture for
+Efficient Vision-Language Models](https://arxiv.org/pdf/2512.14661). [Focus; [GitHub](https://github.com/dubcyfor3/Focus)]
+
+- <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2512.10324-red?logo=arxiv" height="14" /> [EchoingPixels: Cross-Modal Adaptive Token Reduction for Efficient Audio-Visual LLMs](https://arxiv.org/abs/2512.10324). [EchoingPixels; Audio-Video]
+
+- <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2512.08240-red?logo=arxiv" height="14" /> [HybridToken-VLM: Hybrid Token Compression for Vision-Language Models](https://arxiv.org/pdf/2512.08240). [HTC-VLM;]
+
+- <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2512.06866-red?logo=arxiv" height="14" /> [Less Is More, but Where? Dynamic Token Compression via LLM-Guided
+Keyframe Prior](https://arxiv.org/pdf/2512.06866). [DyToK; [GitHub](https://github.com/yu-lin-li/DyToK)]
+
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2511.21150-red?logo=arxiv" height="14" /> [LLaVA-UHD v3: Progressive Visual Compression for Efficient Native-Resolution Encoding in MLLMs](https://arxiv.org/pdf/2511.21150). [LLaVA-UHD v3;]
 
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2511.00141-red?logo=arxiv" height="14" /> [FloC: FACILITY LOCATION-BASED EFFICIENT VI- SUAL TOKEN COMPRESSION FOR LONG VIDEO UN- DERSTANDING](https://arxiv.org/pdf/2511.00141). [FloC;]
