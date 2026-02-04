@@ -1,6 +1,10 @@
 # Awesome-Token-Compress
 🔥🔥🔥 A paper list of some recent  works about Token Compress for Vit and VLM.
 ## VLM
+### 2026
+- <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2602.01649-red?logo=arxiv" height="14" /> [Contribution-aware Token Compression for Efficient Video Understanding via
+Reinforcement Learning](https://arxiv.org/pdf/2602.01649). [CaCoVID;]
+
 ### Visual Token Compression Benchmark 
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2511.02650-red?logo=arxiv" height="14" /> [Can Visual Input Be Compressed? A Visual Token Compression Benchmark for Large Multimodal Models](https://arxiv.org/pdf/2511.02650).
 ### 2025
