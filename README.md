@@ -5,9 +5,13 @@
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2602.01649-red?logo=arxiv" height="14" /> [Contribution-aware Token Compression for Efficient Video Understanding via
 Reinforcement Learning](https://arxiv.org/pdf/2602.01649). [CaCoVID;]
 
-### Visual Token Compression Benchmark 
-- <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2511.02650-red?logo=arxiv" height="14" /> [Can Visual Input Be Compressed? A Visual Token Compression Benchmark for Large Multimodal Models](https://arxiv.org/pdf/2511.02650).
+- <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2601.22674-red?logo=arxiv" height="14" /> [VisionTrim: Unified Vision Token Compression for Training-Free MLLM Acceleration](https://arxiv.org/pdf/2601.22674). [VisionTrim;ICLR 2026;[GitHub](https://github.com/hanxunyu/VisionTrim)]
+
+
+
 ### 2025
+
+
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2512.20561-red?logo=arxiv" height="14" /> [FlashVLM: Text-Guided Visual Token Selection for Large Multimodal Models](https://arxiv.org/pdf/2512.20561). [FlashVLM;]
 
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2512.14661-red?logo=arxiv" height="14" /> [Focus: A Streaming Concentration Architecture for
@@ -23,6 +27,8 @@ Keyframe Prior](https://arxiv.org/pdf/2512.06866). [DyToK; [GitHub](https://gith
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2511.21150-red?logo=arxiv" height="14" /> [LLaVA-UHD v3: Progressive Visual Compression for Efficient Native-Resolution Encoding in MLLMs](https://arxiv.org/pdf/2511.21150). [LLaVA-UHD v3;]
 
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2511.00141-red?logo=arxiv" height="14" /> [FloC: FACILITY LOCATION-BASED EFFICIENT VI- SUAL TOKEN COMPRESSION FOR LONG VIDEO UN- DERSTANDING](https://arxiv.org/pdf/2511.00141). [FloC;]
+
+- <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2511.02650-red?logo=arxiv" height="14" /> [Can Visual Input Be Compressed? A Visual Token Compression Benchmark for Large Multimodal Models](https://arxiv.org/pdf/2511.02650).[Visual Token Compression Benchmark]
 
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2510.16598-red?logo=arxiv" height="14" /> [VisionSelector: End-to-End Learnable Visual Token Compression for Efficient Multimodal LLMs](https://arxiv.org/pdf/2510.16598). [VisionSelector; [GitHub](https://github.com/JulietChoo/VisionSelector)]
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2509.23931-red?logo=arxiv" height="14" /> [AutoPrune: Each Complexity Deserves a Pruning Policy](https://arxiv.org/abs/2509.23931). [AutoPrune;NIPS2025; [GitHub](https://github.com/AutoLab-SAI-SJTU/AutoPrune)]
