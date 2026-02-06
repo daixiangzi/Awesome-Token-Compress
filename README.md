@@ -2,15 +2,15 @@
 🔥🔥🔥 A paper list of some recent  works about Token Compress for Vit and VLM.
 ## VLM
 ### 2026
+- <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2602.05809-red?logo=arxiv" height="14" /> [Focus-Scan-Refine: From Human Visual Perception to Efficient Visual Token Pruning](https://arxiv.org/pdf/2602.05809). [FSR;[GitHub](https://github.com/ILOT-code/FSR)]
+
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2602.01649-red?logo=arxiv" height="14" /> [Contribution-aware Token Compression for Efficient Video Understanding via
 Reinforcement Learning](https://arxiv.org/pdf/2602.01649). [CaCoVID;]
 
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2601.22674-red?logo=arxiv" height="14" /> [VisionTrim: Unified Vision Token Compression for Training-Free MLLM Acceleration](https://arxiv.org/pdf/2601.22674). [VisionTrim;ICLR 2026;[GitHub](https://github.com/hanxunyu/VisionTrim)]
 
 
-
 ### 2025
-
 
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2512.20561-red?logo=arxiv" height="14" /> [FlashVLM: Text-Guided Visual Token Selection for Large Multimodal Models](https://arxiv.org/pdf/2512.20561). [FlashVLM;]
 
