@@ -195,6 +195,8 @@ Adaptive Token Reduction for Efficient Large Multimodal Models](https://arxiv.or
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2305.17455-red?logo=arxiv" height="14" /> [CrossGET: Cross-Guided Ensemble of Tokens for Accelerating Vision-Language Transformers](https://arxiv.org/pdf/2305.17455v4) . [CrossGET;	ICML 2024;[Github](https://github.com/sdc17/CrossGET)]
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2301.12597-red?logo=arxiv" height="14" /> [BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models](https://arxiv.org/abs/2301.12597) . [Q-former;[Github](https://github.com/salesforce/LAVIS/tree/main/projects/blip2)]
 ## Vit
+### 2026
+-  <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2602.15720-red?logo=arxiv" height="14" />  [ToaSt: Token Channel Selection and Structured Pruning for Efficient ViT](https://arxiv.org/pdf/2602.15720) . [ToaSt]
 ### 2025
 -  <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2505.15160-red?logo=arxiv" height="14" />  [Lossless Token Merging Even Without Fine-Tuning in Vision Transformers](https://arxiv.org/pdf/2505.15160) . [ATM]
 
