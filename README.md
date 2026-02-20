@@ -3,6 +3,9 @@
 ## VLM
 ### 2026
 
+- <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2602.17196-red?logo=arxiv" height="14" /> [EntropyPrune: Matrix Entropy Guided Visual Token Pruning for Multimodal
+Large Language Models](https://arxiv.org/pdf/2602.17196). [EntropyPrune;[GitHub](https://github.com/YahongWang1/EntropyPrune)]
+
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2602.08024-red?logo=arxiv" height="14" /> [FlashVID: Efficient Video Large Language Models via Training-free Tree-based Spatiotemporal Token Merging](https://arxiv.org/pdf/2602.08024). [FlashVID; ICLR 2026; [GitHub](https://github.com/Fanziyang-v/FlashVID)]
 
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2602.05809-red?logo=arxiv" height="14" /> [Focus-Scan-Refine: From Human Visual Perception to Efficient Visual Token Pruning](https://arxiv.org/pdf/2602.05809). [FSR;[GitHub](https://github.com/ILOT-code/FSR)]
