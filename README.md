@@ -3,6 +3,10 @@
 ## VLM
 ### 2026
 
+- <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2602.19870-red?logo=arxiv" height="14" /> [ApET: Approximation-Error Guided Token Compression for Efficient VLMs](https://arxiv.org/pdf/2602.19870). [ApET;[GitHub](https://github.com/MaQianKun0/ApET)]
+
+- <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2602.18846-red?logo=arxiv" height="14" /> [DUET-VLM: Dual-Stage Efficient Token Reduction for Vision-Language Models](https://arxiv.org/pdf/2602.18846). [DUET-VLM;[GitHub](https://github.com/AMD-AGI/DUET-VLM)]
+
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2602.17196-red?logo=arxiv" height="14" /> [EntropyPrune: Matrix Entropy Guided Visual Token Pruning for Multimodal
 Large Language Models](https://arxiv.org/pdf/2602.17196). [EntropyPrune;[GitHub](https://github.com/YahongWang1/EntropyPrune)]
 
