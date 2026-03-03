@@ -3,6 +3,11 @@
 ## VLM
 ### 2026
 
+- <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2603.01236-red?logo=arxiv" height="14" /> [AgilePruner: An Empirical Study of Attention and Diversity for Adaptive Visual Token Pruning in Large Vision-Language Models](http://arxiv.org/abs/2603.01236). [AgilePruner;ICLR 2026;[GitHub](https://github.com/cvsp-lab/AgilePruner)]
+
+- <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2603.01400-red?logo=arxiv" height="14" /> [Token Reduction via Local and Global Contexts Optimization for Efficient Video
+Large Language Models](https://arxiv.org/pdf/2603.01400). [AOT;[GitHub](https://github.com/TyroneLi/AOT)]
+
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2602.19870-red?logo=arxiv" height="14" /> [ApET: Approximation-Error Guided Token Compression for Efficient VLMs](https://arxiv.org/pdf/2602.19870). [ApET;[GitHub](https://github.com/MaQianKun0/ApET)]
 
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2602.18846-red?logo=arxiv" height="14" /> [DUET-VLM: Dual-Stage Efficient Token Reduction for Vision-Language Models](https://arxiv.org/pdf/2602.18846). [DUET-VLM;[GitHub](https://github.com/AMD-AGI/DUET-VLM)]
