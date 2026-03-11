@@ -3,6 +3,8 @@
 ## VLM
 ### 2026
 
+- <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2603.09480-red?logo=arxiv" height="14" /> [Prune Redundancy, Preserve Essence: Vision Token Compression in VLMs via Synergistic Importance-Diversity](https://arxiv.org/pdf/2603.09480). [PruneSID;ICLR 2026;[GitHub](https://github.com/ZhengyaoFang/PruneSID)]
+
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2603.01236-red?logo=arxiv" height="14" /> [AgilePruner: An Empirical Study of Attention and Diversity for Adaptive Visual Token Pruning in Large Vision-Language Models](http://arxiv.org/abs/2603.01236). [AgilePruner;ICLR 2026;[GitHub](https://github.com/cvsp-lab/AgilePruner)]
 
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2603.01400-red?logo=arxiv" height="14" /> [Token Reduction via Local and Global Contexts Optimization for Efficient Video
