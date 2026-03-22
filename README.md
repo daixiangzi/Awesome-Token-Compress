@@ -2,7 +2,10 @@
 🔥🔥🔥 A paper list of some recent  works about Token Compress for Vit and VLM.
 ## VLM
 ### 2026
+
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2603.14549-red?logo=arxiv" height="14" /> [ASAP: Attention-Shift-Aware Pruning for Efficient LVLM Inference](https://arxiv.org/pdf/2603.14549). [ASAP;]
+
+- <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2603.13394-red?logo=arxiv" height="14" /> [Language-Guided Token Compression with Reinforcement Learning in Large Vision-Language Models](https://arxiv.org/pdf/2603.13394). [TPRL;[GitHub](https://github.com/MagicVicCoder/TPRL)]
 
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2603.09480-red?logo=arxiv" height="14" /> [Prune Redundancy, Preserve Essence: Vision Token Compression in VLMs via Synergistic Importance-Diversity](https://arxiv.org/pdf/2603.09480). [PruneSID;ICLR 2026;[GitHub](https://github.com/ZhengyaoFang/PruneSID)]
 
