@@ -3,6 +3,8 @@
 ## VLM
 ### 2026
 
+- <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2603.21957-red?logo=arxiv" height="14" /> [Unified Spatiotemporal Token Compression for Video-LLMs at Ultra-Low Retention](https://arxiv.org/pdf/2603.21957). [Video;CVPR 2026]
+
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2603.14549-red?logo=arxiv" height="14" /> [ASAP: Attention-Shift-Aware Pruning for Efficient LVLM Inference](https://arxiv.org/pdf/2603.14549). [ASAP;]
 
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2603.13394-red?logo=arxiv" height="14" /> [Language-Guided Token Compression with Reinforcement Learning in Large Vision-Language Models](https://arxiv.org/pdf/2603.13394). [TPRL;[GitHub](https://github.com/MagicVicCoder/TPRL)]
