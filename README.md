@@ -2,6 +2,7 @@
 🔥🔥🔥 A paper list of some recent  works about Token Compress for Vit and VLM.
 ## VLM
 ### 2026
+- <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2603.22911-red?logo=arxiv" height="14" /> [ForestPrune: High-ratio Visual Token Compression for Video Multimodal Large Language Models via Spatial-Temporal Forest Modeling](http://arxiv.org/abs/2603.22911). [ForestPrune;[GitHub](https://github.com/luminousllsa/ForestPrune)]
 
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2603.21957-red?logo=arxiv" height="14" /> [Unified Spatiotemporal Token Compression for Video-LLMs at Ultra-Low Retention](https://arxiv.org/pdf/2603.21957). [Video;CVPR 2026]
 
