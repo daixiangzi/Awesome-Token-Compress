@@ -4,6 +4,16 @@
 ### 2026
 
 
+- <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2605.12056-red?logo=arxiv" height="14" /> [OmniRefine: Alignment-Aware Cooperative Compression for Efficient Omnimodal Large Language Models](https://arxiv.org/pdf/2605.12056). [OmniRefine;]
+
+
+- <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2605.11803-red?logo=arxiv" height="14" /> [OTT-Vid: Optimal Transport Temporal Token Compression for Video Large Language Models](https://arxiv.org/pdf/2605.11803). [OTT-Vid;[GitHub](https://github.com/minseokii/OTT-Vid)]
+
+- <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2605.09429-red?logo=arxiv" height="14" /> [EVADING VISUAL APHASIA: CONTRASTIVE ADAPTIVE SEMANTIC TOKEN PRUNING FOR VISION-LANGUAGE MODELS](https://arxiv.org/pdf/2605.09429). [COAST;]
+
+- <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2604.17087-red?logo=arxiv" height="14" /> [EvoComp: Learning Visual Token Compression for Multimodal Large Language Models via Semantic-Guided Evolutionary Labeling](https://arxiv.org/pdf/2604.17087). [EvoComp;]
+
+
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2604.11240-red?logo=arxiv" height="14" /> [Decoupled Similarity for Task-Aware Token Pruning
 in Large Vision-Language Models](https://arxiv.org/pdf/2604.11240). [DeSAP;]
 
