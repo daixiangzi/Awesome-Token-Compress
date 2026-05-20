@@ -4,6 +4,9 @@
 ### 2026
 
 
+- <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2605.19322-red?logo=arxiv" height="14" /> [DynaTok: Temporally Adaptive and Positional Bias-Aware Token Compression for Video-LLMs](https://arxiv.org/pdf/2605.19322).[DynaTok;]
+
+
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2605.12056-red?logo=arxiv" height="14" /> [OmniRefine: Alignment-Aware Cooperative Compression for Efficient Omnimodal Large Language Models](https://arxiv.org/pdf/2605.12056). [OmniRefine;]
 
 
