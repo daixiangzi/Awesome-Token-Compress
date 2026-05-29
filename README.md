@@ -1,8 +1,14 @@
 # Awesome-Token-Compress
 🔥🔥🔥 A paper list of some recent  works about Token Compress for Vit and VLM.
 ## VLM
+
 ### 2026
-- <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2605.22078-red?logo=arxiv" height="14" /> [En hancing Visual Token Representations for Video Large Language Models via Training-Free Spatial-Temporal Pooling and Gridding](https://arxiv.org/pdf/2605.22078). [ST-GridPool;Video;ICLR 2026][GitHub](https://github.com/bingjunluo/ST-GridPool)]
+- <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2605.30010-red?logo=arxiv" height="14" /> [EarlyTom:Early Token Compression Completes Fast Video Understanding](https://arxiv.org/pdf/2605.30010). [EarlyTom;Video;CVPR 2026;[GitHub](https://viridisgreen.github.io/EarlyTom/)]
+
+- <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2605.29657-red?logo=arxiv" height="14" /> [OccamToken: Efficient VLM Inference with
+Training-Free and Budget-Adaptive Token Pruning](https://arxiv.org/pdf/2605.29657). [OccamToken; ]
+
+- <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2605.22078-red?logo=arxiv" height="14" /> [Enhancing Visual Token Representations for Video Large Language Models via Training-Free Spatial-Temporal Pooling and Gridding](https://arxiv.org/pdf/2605.22078). [ST-GridPool;Video;ICLR 2026;[GitHub](https://github.com/bingjunluo/ST-GridPool)]
 
 
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2605.19322-red?logo=arxiv" height="14" /> [DynaTok: Temporally Adaptive and Positional Bias-Aware Token Compression for Video-LLMs](https://arxiv.org/pdf/2605.19322).[DynaTok;]
