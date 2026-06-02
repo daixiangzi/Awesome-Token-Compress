@@ -3,6 +3,12 @@
 ## VLM
 
 ### 2026
+- <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2606.02161-red?logo=arxiv" height="14" /> [InfoMerge: Information-aware Token Compression for Efficient Video
+Large Language Models](https://arxiv.org/pdf/2606.02161). [InfoMerge; ]
+
+- <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2606.01756-red?logo=arxiv" height="14" /> [EvoCut: Multi-Layer Evolution-Aware Visual Token Compression for
+Efficient Large Vision-Language Models](https://arxiv.org/pdf/2606.01756). [EvoCut; ]
+
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2605.30010-red?logo=arxiv" height="14" /> [EarlyTom:Early Token Compression Completes Fast Video Understanding](https://arxiv.org/pdf/2605.30010). [EarlyTom;Video;CVPR 2026;[GitHub](https://viridisgreen.github.io/EarlyTom/)]
 
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2605.29657-red?logo=arxiv" height="14" /> [OccamToken: Efficient VLM Inference with
