@@ -3,6 +3,8 @@
 ## VLM
 
 ### 2026
+- <img alt="CVPR" src="https://img.shields.io/badge/CVPR-2026-blue" height="14" /> [MeToM: Metadata-Guided Token Merging for Efficient Video LLMs](https://openaccess.thecvf.com/content/CVPR2026/papers/Wu_MeToM_Metadata-Guided_Token_Merging_for_Efficient_Video_LLMs_CVPR_2026_paper.pdf). [MeToM;Video;CVPR 2026]
+
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2606.02161-red?logo=arxiv" height="14" /> [InfoMerge: Information-aware Token Compression for Efficient Video
 Large Language Models](https://arxiv.org/pdf/2606.02161). [InfoMerge; ]
 
