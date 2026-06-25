@@ -3,6 +3,7 @@
 ## VLM
 
 ### 2026
+-  <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2606.24165-red?logo=arxiv" height="14" /> [Spectral Evolution-Guided Token Pruning in Multimodal Large Language Models](https://arxiv.org/pdf/2606.24165). [CLSE;ECCV 2026[GitHub](https://github.com/zjubinchen/CLSE)]
 
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2606.14277-red?logo=arxiv" height="14" /> [One Layer’s Trash is Another Layer’s Treasure: Adaptive Layer-wise Visual Token Selection in LVLMs](https://arxiv.org/pdf/2606.14277).[ALVTS;CVPR 2026]
 
