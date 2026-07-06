@@ -3,6 +3,9 @@
 ## VLM
 
 ### 2026
+- <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2606.02161-red?logo=arxiv" height="14" /> [OmniDrop: Layer-wise Token Pruning for Omni-modal LLMs via Query-Guidance
+](https://arxiv.org/abs/2605.14458). [OmniDrop; ]
+
 -  <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2607.02484-red?logo=arxiv" height="14" /> [Combating Textual Noise and Redundancy:Entropy-Aware Dense Visual Token Pruning](https://arxiv.org/pdf/2607.02484). [EADP;ECCV 2026[GitHub](https://github.com/SJTU-DeepVisionLab/EADP)]
 
 -  <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2606.24165-red?logo=arxiv" height="14" /> [Spectral Evolution-Guided Token Pruning in Multimodal Large Language Models](https://arxiv.org/pdf/2606.24165). [CLSE;ECCV 2026[GitHub](https://github.com/zjubinchen/CLSE)]
