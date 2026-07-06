@@ -3,6 +3,8 @@
 ## VLM
 
 ### 2026
+-  <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2607.02484-red?logo=arxiv" height="14" /> [Combating Textual Noise and Redundancy:Entropy-Aware Dense Visual Token Pruning](https://arxiv.org/pdf/2607.02484). [EADP;ECCV 2026[GitHub](https://github.com/SJTU-DeepVisionLab/EADP)]
+
 -  <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2606.24165-red?logo=arxiv" height="14" /> [Spectral Evolution-Guided Token Pruning in Multimodal Large Language Models](https://arxiv.org/pdf/2606.24165). [CLSE;ECCV 2026[GitHub](https://github.com/zjubinchen/CLSE)]
 
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2606.14277-red?logo=arxiv" height="14" /> [One Layer’s Trash is Another Layer’s Treasure: Adaptive Layer-wise Visual Token Selection in LVLMs](https://arxiv.org/pdf/2606.14277).[ALVTS;CVPR 2026]
@@ -259,6 +261,7 @@ Adaptive Token Reduction for Efficient Large Multimodal Models](https://arxiv.or
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2301.12597-red?logo=arxiv" height="14" /> [BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models](https://arxiv.org/abs/2301.12597) . [Q-former;[Github](https://github.com/salesforce/LAVIS/tree/main/projects/blip2)]
 ## Vit
 ### 2026
+-  <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2607.02237-red?logo=arxiv" height="14" />  [When Token Compression Breaks: Structural Pruning vs. Token Reduction for Robust ViT Segmentation under High Compression](https://arxiv.org/pdf/2607.02237) . [PtM;[Github](https://github.com/phatnguyencs/vit-seg-compression)]
 
 -  <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2604.00827-red?logo=arxiv" height="14" />  [Video Patch Pruning: Efficient Video Instance Segmentation via Early Token
 Reduction](https://arxiv.org/pdf/2604.00827) . [VPP;[Github](https://github.com/PatGlan/Video-Patch-Pruning)]
