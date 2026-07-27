@@ -6,7 +6,7 @@
 
 -  <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2607.12500-red?logo=arxiv" height="14" /> [Attention-Free and Lightweight Token Reduction for Efficient Vision-Language Models](https://arxiv.org/pdf/2607.13500). [ALTR;]
 
--  <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2607.12756-red?logo=arxiv" height="14" /> [VisCo: Leveraging Large Language Models as Intrinsic Encoders for Visual Token Compression](https://arxiv.org/pdf/2607.12756). [VisCo;]
+-  <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2607.12756-red?logo=arxiv" height="14" /> [VisCo: Leveraging Large Language Models as Intrinsic Encoders for Visual Token Compression](https://arxiv.org/pdf/2607.12756). [VisCo;ACM MM 2026;[GitHub](https://github.com/Zyvpeng/VisCo/tree/main)]
 
 
 -  <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2607.09080-red?logo=arxiv" height="14" /> [GeoTrace: Geometry-Aware Trajectory Token
