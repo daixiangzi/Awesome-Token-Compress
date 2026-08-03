@@ -4,6 +4,12 @@
 
 ### 2026
 
+- <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2604.00086-red?logo=arxiv" height="14" /> [Hierarchical Pre-Training of Vision Encoders with Large Language Models](https://arxiv.org/pdf/2604.00086). [HIVE;CVPR 2026 Workshop;[GitHub](https://github.com/eugenelet/HIVE)]
+
+- <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2603.26775-red?logo=arxiv" height="14" /> [Learning to Select Visual In-Context Demonstrations](https://arxiv.org/pdf/2603.26775). [LSD;CVPR 2026 Findings;[GitHub](https://github.com/eugenelet/Learning-to-Select-Visual-In-Context-Demonstrations)]
+
+- [Semantic-Guided Slow-Fast Pruning of Visual Tokens for Vision-Language Models](https://ieeexplore.ieee.org/abstract/document/11460400). [ICASSP 2026]
+
 -  <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2607.12500-red?logo=arxiv" height="14" /> [Attention-Free and Lightweight Token Reduction for Efficient Vision-Language Models](https://arxiv.org/pdf/2607.13500). [ALTR;]
 
 -  <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2607.12756-red?logo=arxiv" height="14" /> [VisCo: Leveraging Large Language Models as Intrinsic Encoders for Visual Token Compression](https://arxiv.org/pdf/2607.12756). [VisCo;ACM MM 2026;[GitHub](https://github.com/Zyvpeng/VisCo/tree/main)]
