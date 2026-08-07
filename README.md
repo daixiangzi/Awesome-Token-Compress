@@ -4,6 +4,8 @@
 
 ### 2026
 
+- [Semantic-Guided Slow-Fast Pruning of Visual Tokens for Vision-Language Models](https://ieeexplore.ieee.org/abstract/document/11460400). [ICASSP 2026]
+
 -  <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2608.01185-red?logo=arxiv" height="14" /> [3DZip: Spatial-Aware Feature Diversity-Guided Token Compression for 3D Question Answering](https://arxiv.org/pdf/2608.01185). [3DZip;3D;ECCV 2026;[GitHub](https://github.com/cvsp-lab/3DZip)]
 
 -  <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2607.12500-red?logo=arxiv" height="14" /> [Attention-Free and Lightweight Token Reduction for Efficient Vision-Language Models](https://arxiv.org/pdf/2607.13500). [ALTR;]
@@ -58,6 +60,10 @@ in Large Vision-Language Models](https://arxiv.org/pdf/2604.11240). [DeSAP;]
 
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2604.03414-red?logo=arxiv" height="14" /> [KiToke: Kernel-based Interval-aware Token Compression
 for Video Large Language Models](https://arxiv.org/pdf/2604.03414). [KiToke;]
+
+- <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2604.00086-red?logo=arxiv" height="14" /> [Hierarchical Pre-Training of Vision Encoders with Large Language Models](https://arxiv.org/pdf/2604.00086). [HIVE;CVPR 2026 Workshop;[GitHub](https://github.com/eugenelet/HIVE)]
+
+- <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2603.26775-red?logo=arxiv" height="14" /> [Learning to Select Visual In-Context Demonstrations](https://arxiv.org/pdf/2603.26775). [LSD;CVPR 2026 Findings;[GitHub](https://github.com/eugenelet/Learning-to-Select-Visual-In-Context-Demonstrations)]
 
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2603.26365-red?logo=arxiv" height="14" /> [Dynamic Token Compression for Efficient Video Understanding through Reinforcement Learning](https://arxiv.org/pdf/2603.26365). [SCORE;Video;RL]
 
