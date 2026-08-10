@@ -4,7 +4,9 @@
 
 ### 2026
 
-- [Semantic-Guided Slow-Fast Pruning of Visual Tokens for Vision-Language Models](https://ieeexplore.ieee.org/abstract/document/11460400). [ICASSP 2026]
+-  <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2608.07193-red?logo=arxiv" height="14" /> [An AI4AI Framework for Visual Token Pruning](https://arxiv.org/pdf/2608.07193). [AutoPrune;]
+
+- <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2608.unknown-red?logo=arxiv" height="14" /> [Semantic-Guided Slow-Fast Pruning of Visual Tokens for Vision-Language Models](https://ieeexplore.ieee.org/abstract/document/11460400). [ICASSP 2026]
 
 -  <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2608.01185-red?logo=arxiv" height="14" /> [3DZip: Spatial-Aware Feature Diversity-Guided Token Compression for 3D Question Answering](https://arxiv.org/pdf/2608.01185). [3DZip;3D;ECCV 2026;[GitHub](https://github.com/cvsp-lab/3DZip)]
 
