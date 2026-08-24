@@ -4,6 +4,9 @@
 
 ### 2026
 
+-  <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2608.20473-red?logo=arxiv" height="14" /> [Aggregating Visual Information with Optimal Transport for VideoLM Token
+Compression](https://arxiv.org/pdf/2608.20473). [AVIOT;Video;[GitHub](https://github.com/ernie-research/AVIOT)]
+
 -  <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2608.07193-red?logo=arxiv" height="14" /> [An AI4AI Framework for Visual Token Pruning](https://arxiv.org/pdf/2608.07193). [AutoPrune;]
 
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2608.unknown-red?logo=arxiv" height="14" /> [Semantic-Guided Slow-Fast Pruning of Visual Tokens for Vision-Language Models](https://ieeexplore.ieee.org/abstract/document/11460400). [ICASSP 2026]
