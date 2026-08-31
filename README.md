@@ -4,6 +4,10 @@
 
 ### 2026
 
+-  <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2608.28138-red?logo=arxiv" height="14" /> [Token-Budget Distillation: Transferring Full-Token Semantics to Compressed Video Vision-Language Models](https://arxiv.org/pdf/2608.28138). [TBD;Video;Distillation]
+
+-  <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2608.28008-red?logo=arxiv" height="14" /> [Visual Token Coding for Video Multimodal Large Language Models](https://arxiv.org/pdf//2608.28008). [VTC;Video;[GitHub](https://github.com/Msr233/VTC)]
+
 -  <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2608.20473-red?logo=arxiv" height="14" /> [Aggregating Visual Information with Optimal Transport for VideoLM Token
 Compression](https://arxiv.org/pdf/2608.20473). [AVIOT;Video;[GitHub](https://github.com/ernie-research/AVIOT)]
 
