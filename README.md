@@ -4,6 +4,9 @@
 
 ### 2026
 
+-  <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2609.03158-red?logo=arxiv" height="14" /> [Who Speaks for the Pruned?
+Visual Token Pruning as Coverage Optimization](https://arxiv.org/pdf/2609.03158). [CoverPruner;]
+
 -  <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2608.28138-red?logo=arxiv" height="14" /> [Token-Budget Distillation: Transferring Full-Token Semantics to Compressed Video Vision-Language Models](https://arxiv.org/pdf/2608.28138). [TBD;Video;Distillation]
 
 -  <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2608.28008-red?logo=arxiv" height="14" /> [Visual Token Coding for Video Multimodal Large Language Models](https://arxiv.org/pdf//2608.28008). [VTC;Video;[GitHub](https://github.com/Msr233/VTC)]
