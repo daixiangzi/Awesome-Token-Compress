@@ -4,6 +4,8 @@
 
 ### 2026
 
+-  <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2609.24485-red?logo=arxiv" height="14" /> [VPRUNE: EFFICIENT TRAINING-FREE PRE-LLM VISUAL TOKEN PRUNING](https://arxiv.org/pdf/2609.24485). [VPRune;]
+
 -  <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2609.08345-red?logo=arxiv" height="14" /> [CoVeR: Coverage-Based Token Pruning for Multi-View 3D Reasoning in VLMs](https://arxiv.org/abs/2609.08345). [CoVeR;[GitHub](https://humansensinglab.github.io/CoVeR/)]
 
 -  <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2609.03158-red?logo=arxiv" height="14" /> [Who Speaks for the Pruned?
