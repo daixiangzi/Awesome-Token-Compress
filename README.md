@@ -307,7 +307,7 @@ Reduction](https://arxiv.org/pdf/2604.00827) . [VPP;[Github](https://github.com/
 
 -  <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2602.15720-red?logo=arxiv" height="14" />  [ToaSt: Token Channel Selection and Structured Pruning for Efficient ViT](https://arxiv.org/pdf/2602.15720) . [ToaSt]
 
--  <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2604.05718-red?logo=arxiv" height="14" />  [MPM: Mutual Pair Merging for Efficient Vision Transformers](https://arxiv.org/abs/2604.05718) . [MPM;[Github](https://github.com/saulane/MPM)]
+-  <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2604.05718-red?logo=arxiv" height="14" />  [MPM: Mutual Pair Merging for Efficient Vision Transformers](https://arxiv.org/abs/2604.05718) . [MPM;CVPR 2026 Findings; [Github](https://github.com/saulane/MPM)]
 ### 2025
 -  <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2505.15160-red?logo=arxiv" height="14" />  [Lossless Token Merging Even Without Fine-Tuning in Vision Transformers](https://arxiv.org/pdf/2505.15160) . [ATM]
 
