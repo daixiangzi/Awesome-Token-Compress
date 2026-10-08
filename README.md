@@ -3,6 +3,7 @@
 ## VLM
 
 ### 2026
+-  <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2610.09252-red?logo=arxiv" height="14" /> [Adaptive Visual Token Reduction for Accelerated Image Understanding](https://arxiv.org/pdf/2610.09252). [VQA;]
 
 -  <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2609.24485-red?logo=arxiv" height="14" /> [VPRUNE: EFFICIENT TRAINING-FREE PRE-LLM VISUAL TOKEN PRUNING](https://arxiv.org/pdf/2609.24485). [VPRune;]
 
