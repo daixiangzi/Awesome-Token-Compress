@@ -39,6 +39,8 @@ Expansion for Visual Token Pruning](https://arxiv.org/pdf/2607.07033). [AnchorPr
 
 -  <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2607.02484-red?logo=arxiv" height="14" /> [Combating Textual Noise and Redundancy:Entropy-Aware Dense Visual Token Pruning](https://arxiv.org/pdf/2607.02484). [EADP;ECCV 2026;[GitHub](https://github.com/SJTU-DeepVisionLab/EADP)]
 
+- <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2607.14935-red?logo=arxiv" height="14" /> [VideoChat3: Fully Open Video MLLM for Efficient and Generalist Video Understanding](https://arxiv.org/abs/2607.14935). [I3D-ViT; 16× spatiotemporal compression;] [[Code]](https://github.com/MCG-NJU/VideoChat3)
+
 -  <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2606.24165-red?logo=arxiv" height="14" /> [Spectral Evolution-Guided Token Pruning in Multimodal Large Language Models](https://arxiv.org/pdf/2606.24165). [CLSE;ECCV 2026;[GitHub](https://github.com/zjubinchen/CLSE)]
 
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2606.14277-red?logo=arxiv" height="14" /> [One Layer’s Trash is Another Layer’s Treasure: Adaptive Layer-wise Visual Token Selection in LVLMs](https://arxiv.org/pdf/2606.14277).[ALVTS;CVPR 2026]
