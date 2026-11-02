@@ -3,6 +3,9 @@
 ## VLM
 
 ### 2026
+
+-  <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2610.38303-red?logo=arxiv" height="14" /> [Don’t Ask the LLM: Visual Token Pruning with Spectral Structure and Semantic Relevance](https://arxiv.org/pdf/2610.38303). [ST-Pruner;[GitHub](https://github.com/sejong-rcv/ST-Pruner)]
+
 -  <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2610.09252-red?logo=arxiv" height="14" /> [Adaptive Visual Token Reduction for Accelerated Image Understanding](https://arxiv.org/pdf/2610.09252). [VQA;]
 
 -  <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2609.24485-red?logo=arxiv" height="14" /> [VPRUNE: EFFICIENT TRAINING-FREE PRE-LLM VISUAL TOKEN PRUNING](https://arxiv.org/pdf/2609.24485). [VPRune;]
@@ -305,6 +308,9 @@ Adaptive Token Reduction for Efficient Large Multimodal Models](https://arxiv.or
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2301.12597-red?logo=arxiv" height="14" /> [BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models](https://arxiv.org/abs/2301.12597) . [Q-former;[Github](https://github.com/salesforce/LAVIS/tree/main/projects/blip2)]
 ## Vit
 ### 2026
+
+-  <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2610.38284-red?logo=arxiv" height="14" />  [ConvRoute-ViT: Convolutional Token Routing for Efficient Vision Transformers](https://arxiv.org/pdf/2610.38284) . [ConvRoute-ViT;]
+
 -  <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2607.02237-red?logo=arxiv" height="14" />  [When Token Compression Breaks: Structural Pruning vs. Token Reduction for Robust ViT Segmentation under High Compression](https://arxiv.org/pdf/2607.02237) . [PtM;[Github](https://github.com/phatnguyencs/vit-seg-compression)]
 
 -  <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2604.00827-red?logo=arxiv" height="14" />  [Video Patch Pruning: Efficient Video Instance Segmentation via Early Token
