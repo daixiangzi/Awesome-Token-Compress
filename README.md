@@ -3,6 +3,8 @@
 ## VLM
 
 ### 2026
+-  <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2611.15069-red?logo=arxiv" height="14" /> [DiFiT: Distribution-Fidelity-guided Visual Token Pruning for
+Multimodal Large Language Models](https://arxiv.org/pdf/2611.15069). [DiFiT;]
 
 -  <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2610.38303-red?logo=arxiv" height="14" /> [Don’t Ask the LLM: Visual Token Pruning with Spectral Structure and Semantic Relevance](https://arxiv.org/pdf/2610.38303). [ST-Pruner;[GitHub](https://github.com/sejong-rcv/ST-Pruner)]
 
